@@ -1,0 +1,6886 @@
+========================================
+                 SUMMARY
+========================================
+Total Trades: 255
+Total Lots: 900
+Total Parties: 680
+
+
+========================================
+            TRADE 1
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 3.70 Put x3.72 44d TRADES .4080 (100x)
+Price: 0.408
+Quantity: 100x
+
+BUYER: Consto Greg (100x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 PHE V25 3.70 Put for .4080
+    - Buys 44 PHE V25 3.72 Futures
+
+SELLER: Optiver (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE V25 3.70 Put for .4080
+    - Sells 44 PHE V25 3.72 Futures
+
+
+========================================
+            TRADE 2
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.00p E7 TRADES .0025 (200x)
+Price: 0.0025
+Quantity: 200x
+
+BUYER: Baml Connor (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 E7 N25 3.00 Put for .0025
+
+SELLER: DV Jacob (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 200 E7 N25 3.00 Put for .0025
+
+
+========================================
+            TRADE 3
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.50/3.40 ps E7/LN TRADES .0260 (50x)
+Price: 0.026
+Quantity: 50x
+
+BUYER: RBC JS (50x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 50 E7 N25 3.50 Put for .0660
+    - Sells 50 E7 N25 3.40 Put for .0120
+    - Sells 50 LN N25 3.50 Put for .0300
+    - Buys 50 LN N25 3.40 Put for .0020
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 E7 N25 3.50 Put for .0660
+    - Buys 50 E7 N25 3.40 Put for .0120
+    - Buys 50 LN N25 3.50 Put for .0300
+    - Sells 50 LN N25 3.40 Put for .0020
+
+
+========================================
+            TRADE 4
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.50p E7/LN TRADES .0550 (50x)
+Price: 0.055
+Quantity: 50x
+
+BUYER: Citi Ken (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 E7 N25 3.50 Put for .0750
+    - Sells 50 LN N25 3.50 Put for .0200
+
+SELLER: Mitsui Troy (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 E7 N25 3.50 Put for .0750
+    - Buys 50 LN N25 3.50 Put for .0200
+
+
+========================================
+            TRADE 5
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 2.70 Put x3.62 8d TRADES .0420 (500x)
+Price: 0.042
+Quantity: 500x
+
+BUYER: Engie Chad (500x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 500 PHE U25 2.70 Put for .0420
+    - Buys 40 PHE U25 3.62 Futures
+
+SELLER: Valk (150x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 150 PHE U25 2.70 Put for .0420
+    - Sells 12 PHE U25 3.62 Futures
+
+SELLER: Sig (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE U25 2.70 Put for .0420
+    - Sells 8 PHE U25 3.62 Futures
+
+
+========================================
+            TRADE 6
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.50/3.40 ps LIVE TRADES .0210 (500x)
+Price: 0.021
+Quantity: 500x
+
+BUYER: GS Jay (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 500 LN N25 3.50 Put for .0240
+    - Sells 500 LN N25 3.40 Put for .0030
+
+SELLER: Optiver (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 300 LN N25 3.50 Put for .0240
+    - Buys 300 LN N25 3.40 Put for .0030
+
+SELLER: Akuna (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.50 Put for .0240
+    - Buys 100 LN N25 3.40 Put for .0030
+
+SELLER: valk (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN N25 3.50 Put for .0240
+    - Buys 50 LN N25 3.40 Put for .0030
+
+
+========================================
+            TRADE 7
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.50p x3.54 40d TRADES .0250 (500x)
+Price: 0.025
+Quantity: 500x
+
+BUYER: GS Jennani (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 500 LN N25 3.50 Put for .0250
+    - Buys 200 HP N25 3.54 Futures
+
+SELLER: Sig (225x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 225 LN N25 3.50 Put for .0250
+    - Sells 90 HP N25 3.54 Futures
+
+SELLER: Walleye (125x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 125 LN N25 3.50 Put for .0250
+    - Sells 50 HP N25 3.54 Futures
+
+SELLER: Optiver (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.50 Put for .0250
+    - Sells 40 HP N25 3.54 Futures
+
+SELLER: Belv (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN N25 3.50 Put for .0250
+    - Sells 20 HP N25 3.54 Futures
+
+
+========================================
+            TRADE 8
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 3.75/4.75cs vs. 3.00p x3.65 48d TRADES .1310 (250x)
+Price: 0.131
+Quantity: 250x
+
+BUYER: Maven (125x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 125 LN U25 3.75 Call for .2980
+    - Sells 125 LN U25 4.75 Call for .0810
+    - Sells 125 LN U25 3.00 Put for .0860
+    - Sells 60 HP U25 3.65 Futures
+
+SELLER: TMG (250x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 250 LN U25 3.75 Call for .2980
+    - Buys 250 LN U25 4.75 Call for .0810
+    - Buys 250 LN U25 3.00 Put for .0860
+    - Buys 120 HP U25 3.65 Futures
+
+
+========================================
+            TRADE 9
+========================================
+Date: Wednesday June 25th  2025
+Instrument: K26 4.00/6.00 1x2 cs x3.95 17d TRADES .2675 (75x)
+Price: 0.2675
+Quantity: 75x
+
+BUYER: Kess (75x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 75 LN K26 4.00 Call for .5475
+    - Sells 150 LN K26 6.00 Call for .1400
+    - Sells 13 HP K26 3.95 Futures
+
+SELLER: Val (75x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 75 LN K26 4.00 Call for .5475
+    - Buys 150 LN K26 6.00 Call for .1400
+    - Buys 13 HP K26 3.95 Futures
+
+
+========================================
+            TRADE 10
+========================================
+Date: Wednesday June 25th  2025
+Instrument: J26 4.50c x3.95 40d TRADES .3990 (200x)
+Price: 0.399
+Quantity: 200x
+
+BUYER: Kess (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 LN J26 4.50 Call for  .3990
+    - Sells 40 HP J26 3.95 Futures
+
+BUYER: Optiver (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE J26 4.50 Call for  .3990
+    - Sells 40 PHE J26 3.95 Futures
+
+SELLER: Val (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN J26 4.50 Call for .3990
+    - Buys 40 HP J26 3.95 Futures
+
+SELLER: Pierce (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE J26 4.50 Call for .3990
+    - Buys 40 PHE J26 3.95 Futures
+
+
+========================================
+            TRADE 11
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 3.25p x3.67 vs. V25 3.25p x3.76 26d/26d TRADES .0440 (500x)
+Price: 0.044
+Quantity: 500x
+
+BUYER: Opt buys (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN V25 3.25 Put for .1990
+    - Buys 26 HP V25 3.76 Futures
+    - Sells 100 LN U25 3.25 Put for .1550
+    - Sells 26 HP U25 3.67 Futures
+
+BUYER: Valk buys (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN V25 3.25 Put for .1990
+    - Buys 13 HP V25 3.76 Futures
+    - Sells 50 LN U25 3.25 Put for .1550
+    - Sells 13 HP U25 3.67 Futures
+
+SELLER: Monty (500x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 500 LN V25 3.25 Put for .1990
+    - Sells 130 HP V25 3.76 Futures
+    - Buys 500 LN U25 3.25 Put for .1550
+    - Buys 130HP U25 3.67 Futures
+
+
+========================================
+            TRADE 12
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.50c LIVE TRADES .0770 (500x)
+Price: 0.077
+Quantity: 500x
+
+BUYER: Optiver (250x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 250 PHE N25 3.50 Call for .0770
+
+SELLER: Jackson delgado (500x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 500 PHE N25 3.50 Call for .0770
+
+
+========================================
+            TRADE 13
+========================================
+Date: Wednesday June 25th  2025
+Instrument: F26 4.00/7.00 fence x5.03 49d TRADES .0760 (500x)
+Price: 0.076
+Quantity: 500x
+
+BUYER: Jeff Brevan buys (500x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 500 LN F26 7.00 Call for .3220
+    - Sells 500 LN F26 4.00 Put for .2460
+    - Sells 245 HP F26 5.03 Futures
+
+SELLER: Kess sells (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 LN F26 7.00 Call for .3220
+    - Buys 200 LN F26 4.00 Put for .2460
+    - Buys 98 HP F26 5.03 Futures
+
+SELLER: Steeg sells (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN F26 7.00 Call for .3220
+    - Buys 100 LN F26 4.00 Put for .2460
+    - Buys 49 HP F26 5.03 Futures
+
+
+========================================
+            TRADE 14
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.70c E7/LN TRADES .0325 (300x)
+Price: 0.0325
+Quantity: 300x
+
+BUYER: Allan (300x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 300 E7 N25 3.70 Call for .0445
+    - Sells 300 LN N25 3.70 Call for .0120
+
+SELLER: GS Jay sells (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 E7 N25 3.70 Call for .0445
+    - Buys 200 LN N25 3.70 Call for .0120
+
+SELLER: Jacob DV sells (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 E7 N25 3.70 Call for .0445
+    - Buys 100 LN N25 3.70 Call for .0120
+
+
+========================================
+            TRADE 15
+========================================
+Date: Wednesday June 25th  2025
+Instrument: E7/LN N25 3.50 Put TRADES .0475 (75x)
+Price: 0.0475
+Quantity: 75x
+
+BUYER: Wasack (75x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 75 E7 N25 3.50 Put for .0605
+    - Sells 75 LN N25 3.50 Put for .0130
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 75 E7 N25 3.50 Put for .0605
+    - Buys 75 LN N25 3.50 Put for .0130
+
+
+========================================
+            TRADE 16
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 3.25/5.00 Fence x 3.73 38d TRADES .0690 (1850x)
+Price: 0.069
+Quantity: 1,850x
+
+BUYER: Hector (1000x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 1500 LN U25 3.25 Put for .1350
+    - Sells 1500 LN U25 5.00 Call for .0660
+    - Buys 570 HP U25 3.73 Futures
+
+BUYER: Geosol Dane buys (350x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 350 PHE U25 3.25 Put for .1350
+    - Sells 350 PHE U25 5.00 Call for .0660
+    - Buys 133 PHE U25 3.73 Futures
+
+SELLER: DRW sells (1000x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 1000 LN U25 3.25 Put for .1350
+    - Buys 1000 LN U25 5.00 Call for .0660
+    - Sells 380 HP U25 3.73 Futures
+
+SELLER: Opt sells (250x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 250 PHE U25 3.25 Put for .1350
+    - Buys 250 PHE U25 5.00 Call for .0660
+    - Sells 95 PHE U25 3.73 Futures
+
+SELLER: TMG sells (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 LN U25 3.25 Put for .1350
+    - Buys 200 LN U25 5.00 Call for .0660
+    - Sells 76 HP U25 3.73 Futures
+
+SELLER: Valk sells (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN U25 3.25 Put for .1350
+    - Buys 100 LN U25 5.00 Call for .0660
+    - Sells 38 HP U25 3.73 Futures
+
+SELLER: CTC sells (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE U25 3.25 Put for .1350
+    - Buys 100 PHE U25 5.00 Call for .0660
+    - Sells 38 PHE U25 3.73 Futures
+
+
+========================================
+            TRADE 17
+========================================
+Date: Wednesday June 25th  2025
+Instrument: K26 4.00/6.00 1x2 cs x3.95 17d TRADES .2675 (475x)
+Price: 0.2675
+Quantity: 475x
+
+BUYER: kess buys (225x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 225 LN K26 4.00 Call for .5475
+    - Sells 450 LN K26 6.00 Call for .1400
+    - Sells 38 HP K26 3.95 Futures
+
+BUYER: Steeg (150x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 150 PHE K26 4.00 Call for .5475
+    - Sells 300 PHE K26 6.00 Call for .1400
+    - Sells 25.5 PHE K26 3.95 Futures
+
+BUYER: Optiver (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE K26 4.00 Call for .5475
+    - Sells 200 PHE K26 6.00 Call for .1400
+    - Sells 17 PHE K26 3.95 Futures
+
+SELLER: Val (225x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 225 LN K26 4.00 Call for .5475
+    - Buys 450 LN K26 6.00 Call for .1400
+    - Buys 38 HP K26 3.95 Futures
+
+SELLER: Macq Pierce (150x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 250 PHE K26 4.00 Call for .5475
+    - Buys 500 PHE K26 6.00 Call for .1400
+    - Buys 42.5 PHE K26 3.95 Futures
+
+
+========================================
+            TRADE 18
+========================================
+Date: Wednesday June 25th  2025
+Instrument: G26 4.50/3.25ps x4.75 30d TRADES .5200 (150x)
+Price: 0.52
+Quantity: 150x
+
+BUYER: Jason Hanna buys (150x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 150 PHE G26 4.50 Put for .6450
+    - Sells 150 PHE G26 3.25 Put for .1250
+    - Buys 45 PHE G26 4.75 Futures
+
+SELLER: Monty sells (150x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 150 PHE G26 4.50 Put for .6450
+    - Buys 150 PHE G26 3.25 Put for .1250
+    - Sells 45 PHE G26 4.75 Futures
+
+
+========================================
+            TRADE 19
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 4.00/5.00 1x2 cs x3.74 21d TRADES .1065 (100x)
+Price: 0.1065
+Quantity: 100x
+
+BUYER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN Q25 4.00 Call for .1585
+    - Sells 200 LN Q25 5.00 Call for .0260
+    - Sells 21 HP Q25 3.74 Futures
+
+SELLER: Smit (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN Q25 4.00 Call for .1585
+    - Buys 200 LN Q25 5.00 Call for .0260
+    - Buys 21 HP Q25 3.74 Futures
+
+
+========================================
+            TRADE 20
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.75c E7/LN TRADES .0325 (225x)
+Price: 0.0325
+Quantity: 225x
+
+BUYER: Allan buys (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 150 E7 N25 3.75 Call for .0505
+    - Sells 150 LN N25 3.75 Call for .0180
+
+BUYER: Citi Ken Lee buys (75x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 75 E7 N25 3.75 Call for .0505
+    - Sells 75 LN N25 3.75 Call for .0180
+
+SELLER: Sestric sells (225x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 225 E7 N25 3.75 Call for .0505
+    - Buys 225 LN N25 3.75 Call for .0180
+
+
+========================================
+            TRADE 21
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.25/4.00 fence E7/LN TRADES .0050 (200x)
+Price: 0.005
+Quantity: 200x
+
+BUYER: DV Jacob (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 200 E7 N25 3.25 Put for .0160
+    - Sells 200 E7 N25 4.00 Call for .0110
+    - Sells 200 LN N25 3.25 Put for .0010
+    - Buys 200 LN N25 4.00 Call for .0010
+
+SELLER: Allan (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 E7 N25 3.25 Put for .0160
+    - Buys 200 E7 N25 4.00 Call for .0110
+    - Buys 200 LN N25 3.25 Put for .0010
+    - Sells 200 LN N25 4.00 Call for .0010
+
+
+========================================
+            TRADE 22
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 3.15p LIVE TRADES .1080 (275x)
+Price: 0.108
+Quantity: 275x
+
+BUYER: RWE Glenn (275x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 275 PHE U25 3.15 Put for .1080
+
+SELLER: Optiver (175x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 175 PHE U25 3.15 Put for .1080
+
+SELLER: Citsec (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE U25 3.15 Put for .1080
+
+
+========================================
+            TRADE 23
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 5.25c LIVE TRADES .1135    (100x)
+Price: 0.1135
+Quantity: 100x
+
+BUYER: Citsec (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE V25 5.25 Call for .1135
+
+SELLER: Dane Carillo (100x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 PHE V25 5.25 Call for .1135
+
+
+========================================
+            TRADE 24
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Z25 9.00/9.50 cs LIVE TRADES .0105 (400x)
+Price: 0.0105
+Quantity: 400x
+
+BUYER: CTC (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN Z25 9.00 Call for .0585
+    - Sells 200 LN Z25 9.50 Call for .0480
+
+BUYER: Optiver (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN Z25 9.00 Call for .0585
+    - Sells 100 LN Z25 9.50 Call for .0480
+
+SELLER: Smit (400x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 400 LN Z25 9.00 Call for .0585
+    - Buys 400 LN Z25 9.50 Call for .0480
+
+
+========================================
+            TRADE 25
+========================================
+Date: Wednesday June 25th  2025
+Instrument: F26 5.50c x5.08 48d TRADES .6240 (100x)
+Price: 0.624
+Quantity: 100x
+
+BUYER: Macq Pierce (100x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 PHE F26 5.50 Call for .6240
+    - Sells 48 PHE F26 5.08 Futures
+
+SELLER: RIngs (50x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 50 PHE F26 5.50 Call for .6240
+    - Buys 24 PHE F26 5.08 Futures
+
+
+========================================
+            TRADE 26
+========================================
+Date: Wednesday June 25th  2025
+Instrument: G26 4.50/3.25ps x4.82 30d TRADES .5000 (300x)
+Price: 0.5
+Quantity: 300x
+
+BUYER: Baly Jason (250x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 250 LN G26 4.50 Put for .6220
+    - Sells 250 LN G26 3.25 Put for .1220
+    - Buys 75 HP G26 4.82 Futures
+
+BUYER: Maven (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN G26 4.50 Put for .6220
+    - Sells 50 LN G26 3.25 Put for .1220
+    - Buys 15 HP G26 4.82 Futures
+
+SELLER: Monty (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 300 LN G26 4.50 Put for .6220
+    - Buys 300 LN G26 3.25 Put for .1220
+    - Sells 90 HP G26 4.82 Futures
+
+
+========================================
+            TRADE 27
+========================================
+Date: Wednesday June 25th  2025
+Instrument: FH26 7.00/7.50cs x4.73 4d TRADES .0480 (200/mo=600x)
+Price: 0.048
+Quantity: Not specified
+
+BUYER: Vitol MJ (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 200/mo LN 1Q26 7.00 Call for .3260
+    - Sells 200/mo LN 1Q26 7.50 Call for .2780
+    - Sells 8/mo HP 1Q26 4.73 Futures
+
+SELLER: Monty (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200/mo LN 1Q26 7.00 Call for .3260
+    - Buys 200/mo LN 1Q26 7.50 Call for .2780
+    - Buys 8/mo HP 1Q26 4.73 Futures
+
+
+========================================
+            TRADE 28
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 4.50/5.50cs vs. 3.75p x3.91 58d TRADES .2100 (500x)
+Price: 0.21
+Quantity: 500x
+
+BUYER: Monty (150x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 500 LN V25 3.75 Put for .3660
+    - Sells 500 LN V25 4.50 Call for .2560
+    - Buys 500 LN V25 5.50 Call for .1000
+    - Buys 290 HP V25 3.91 Futures
+
+SELLER: Optiver (350x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 350 LN V25 3.75 Put for .3660
+    - Buys 350 LN V25 4.50 Call for .2560
+    - Sells 350 LN V25 5.50 Call for .1000
+    - Sells 203 HP V25 3.91 Futures
+
+SELLER: SIG sells (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN V25 3.75 Put for .3660
+    - Buys 100 LN V25 4.50 Call for .2560
+    - Sells 100 LN V25 5.50 Call for .1000
+    - Sells 58 HP V25 3.91 Futures
+
+SELLER: Csec sells (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN V25 3.75 Put for .3660
+    - Buys 50 LN V25 4.50 Call for .2560
+    - Sells 50 LN V25 5.50 Call for .1000
+    - Sells 29 HP V25 3.91 Futures
+
+
+========================================
+            TRADE 29
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 4.00/5.00 cs LIVE TRADES .1580 (100x)
+Price: 0.158
+Quantity: 100x
+
+BUYER: Smit (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN Q25 4.00 Call for .1940
+    - Sells 100 LN Q25 5.00 Call for .0360
+
+SELLER: Optiver (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN Q25 4.00 Call for .1940
+    - Buys 100 LN Q25 5.00 Call for .0360
+
+
+========================================
+            TRADE 30
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 4.00/5.00 1x2 cs x3.83 24d TRADES .1250 (1600x)
+Price: 0.125
+Quantity: 1,600x
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 500 LN Q25 4.00 Call for .2050
+    - Sells 1000 LN Q25 5.00 Call for .0400
+    - Sells 120 HP Q25 3.83 Futures
+
+BUYER: Optiver (300x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 400 LN Q25 4.00 Call for .2050
+    - Sells 800 LN Q25 5.00 Call for .0400
+    - Sells 96 HP Q25 3.83 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN Q25 4.00 Call for .2050
+    - Sells 400 LN Q25 5.00 Call for .0400
+    - Sells 48 HP Q25 3.83 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 150 LN Q25 4.00 Call for .2050
+    - Sells 300 LN Q25 5.00 Call for .0400
+    - Sells 36 HP Q25 3.83 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN Q25 4.00 Call for .2050
+    - Sells 200 LN Q25 5.00 Call for .0400
+    - Sells 24 HP Q25 3.83 Futures
+
+SELLER: GS Jennani (1600x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 1600 LN Q25 4.00 Call for .2050
+    - Buys 3200 LN Q25 5.00 Call for .0400
+    - Buys 384 HP Q25 3.83 Futures
+
+
+========================================
+            TRADE 31
+========================================
+Date: Wednesday June 25th  2025
+Instrument: X25 3.50/3.00/2.50 Put fly LIVE TRADES .0605 (500x)
+Price: 0.0605
+Quantity: 500x
+
+BUYER: Aaron Fu (500x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 500 LN X25 3.50 Put for .1995
+    - Sells 1000 LN X25 3.00 Put for .0870
+    - Buys 500 LN X25 2.50 Put for .0350
+
+SELLER: TMG (350x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 350 LN X25 3.50 Put for .1995
+    - Buys 700 LN X25 3.00 Put for .0870
+    - Sells 350 LN X25 2.50 Put for .0350
+
+SELLER: Maven (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN X25 3.50 Put for .1995
+    - Buys 200 LN X25 3.00 Put for .0870
+    - Sells 100 LN X25 2.50 Put for .0350
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN X25 3.50 Put for .1995
+    - Buys 100 LN X25 3.00 Put for .0870
+    - Sells 50 LN X25 2.50 Put for .0350
+
+
+========================================
+            TRADE 32
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 4.00/5.00 1x2 cs x3.83 24d TRADES .1260 (400x)
+Price: 0.126
+Quantity: 400x
+
+BUYER: Sig (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN Q25 4.00 Call for .2040
+    - Sells 200 LN Q25 5.00 Call for .0390
+    - Sells 24 HP Q25 3.83 Futures
+
+SELLER: GS Jennani (400x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 400 LN Q25 4.00 Call for .2040
+    - Buys 800 LN Q25 5.00 Call for .0390
+    - Buys 96 HP Q25 3.83 Futures
+
+
+========================================
+            TRADE 33
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 2.50/6.00 fence x3.92 15d TRADES .0305 (200x)
+Price: 0.0305
+Quantity: 200x
+
+BUYER: Kess (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 200 LN V25 6.00 Call for .0665
+    - Sells 200 LN V25 2.50 Put for .0360
+    - Sells 30 HP V25 3.92 Futures
+
+SELLER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN V25 6.00 Call for .0665
+    - Buys 100 LN V25 2.50 Put for .0360
+    - Buys 15 HP V25 3.92 Futures
+
+
+========================================
+            TRADE 34
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.25c E7/LN TRADES .0040 (200x)
+Price: 0.004
+Quantity: 200x
+
+BUYER: Allan (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 E7 N25 4.25 Call for .0050
+    - Sells 200 LN N25 4.25 Call for .0010
+
+SELLER: DV Jacob (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 200 E7 N25 4.25 Call for .0050
+    - Buys 200 LN N25 4.25 Call for .0010
+
+
+========================================
+            TRADE 35
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.50/3.35 1x2 ps LIVE TRADES .0040 (1000x)
+Price: 0.004
+Quantity: 1,000x
+
+BUYER: DV Jacob (450x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 1000 LN N25 3.50 Put for .0080
+    - Sells 2000 LN N25 3.35 Put for .0020
+
+SELLER: Drw (550x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 550 LN N25 3.50 Put for .0080
+    - Buys 1100 LN N25 3.35 Put for .0020
+
+SELLER: Gator (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 LN N25 3.50 Put for .0080
+    - Buys 400 LN N25 3.35 Put for .0020
+
+SELLER: Citsec (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 150 LN N25 3.50 Put for .0080
+    - Buys 300 LN N25 3.35 Put for .0020
+
+SELLER: Maven (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.50 Put for .0080
+    - Buys 200 LN N25 3.35 Put for .0020
+
+
+========================================
+            TRADE 36
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.60/3.50 ps LIVE TRADES .0150 (100x)
+Price: 0.015
+Quantity: 100x
+
+BUYER: Engelhart Smit (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN N25 3.60 Put for .0210
+    - Sells 100 LN N25 3.50 Put for .0060
+
+SELLER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.60 Put for .0210
+    - Buys 100 LN N25 3.50 Put for .0060
+
+
+========================================
+            TRADE 37
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.60/3.50 ps LIVE TRADES .0170 (200x)
+Price: 0.017
+Quantity: 200x
+
+BUYER: Engelhart Smit (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN N25 3.60 Put for .0230
+    - Sells 200 LN N25 3.50 Put for .0060
+
+SELLER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.60 Put for .0230
+    - Buys 100 LN N25 3.50 Put for .0060
+
+
+========================================
+            TRADE 38
+========================================
+Date: Wednesday June 25th  2025
+Instrument: UV25 5.00c x3.85 20d  TRADES .1200 (1000/mo=2000x)
+Price: 0.12
+Quantity: Not specified
+
+BUYER: GS Jay (1000x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 1000/mo LN UV25 5.00 Call for .1200
+    - Sells 200/mo HP UV25 3.85 Futures
+
+SELLER: Sig (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100/mo LN UV25 5.00 Call for .1200
+    - Buys 20/mo HP UV25 3.85 Futures
+
+SELLER: DE Shaw Jackson (700x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 700/mo LN UV25 5.00 Call for .1200
+    - Buys 140/mo HP UV25 3.85 Futures
+
+
+========================================
+            TRADE 39
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.60/3.90 fence E7/LN TRADES .0075 (75x)
+Price: 0.0075
+Quantity: 75x
+
+BUYER: Allan buys (75x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 75 E7 N25 3.60 Put for .0505
+    - Sells 75 E7 N25 3.90 Call for .0340
+    - Sells 75 LN N25 3.60 Put for .0330
+    - Buys 75 LN N25 3.90 Call for .0240
+
+SELLER: BMO sells (75x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 75 E7 N25 3.60 Put for .0505
+    - Buys 75 E7 N25 3.90 Call for .0340
+    - Buys 75 LN N25 3.60 Put for .0330
+    - Sells 75 LN N25 3.90 Call for .0240
+
+
+========================================
+            TRADE 40
+========================================
+Date: Wednesday June 25th  2025
+Instrument: JV26 7.00/8.00cs x4.21 5d TRADES .0490 (100/mo=700x)
+Price: 0.049
+Quantity: Not specified
+
+BUYER: JPM Ganesh (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100/mo PHE JV26 7.00 Call for .1340
+    - Sells 100/mo PHE JV26 8.00 Call for .0850
+    - Sells 5/mo PHE JV26 4.21 Futures
+
+SELLER: DRW Mugica (100x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100/mo PHE JV26 7.00 Call for .1340
+    - Buys 100/mo PHE JV26 8.00 Call for .0850
+    - Buys 5/mo PHE JV26 4.21 Futures
+
+
+========================================
+            TRADE 41
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.00c E7/LN TRADES .0150 (200x)
+Price: 0.015
+Quantity: 200x
+
+BUYER: Allan (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 E7 N25 4.00 Call for .0260
+    - Sells 200 LN N25 4.00 Call for .0110
+
+SELLER: DV Jacob (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 200 E7 N25 4.00 Call for .0260
+    - Buys 200 LN N25 4.00 Call for .0110
+
+
+========================================
+            TRADE 42
+========================================
+Date: Wednesday June 25th  2025
+Instrument: G26 4.50/3.25ps x4.82 30d TRADES .5070 (250x)
+Price: 0.507
+Quantity: 250x
+
+BUYER: Baly Hanna (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 250 LN G26 4.50 Put for .6320
+    - Sells 250 LN G26 3.25 Put for .1250
+    - Buys 75 HP G26 4.82 Futures
+
+SELLER: CTC (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 LN G26 4.50 Put for .6320
+    - Buys 250 LN G26 3.25 Put for .1250
+    - Sells 75 HP G26 4.82 Futures
+
+
+========================================
+            TRADE 43
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.60/3.50 ps x3.83 8d TRADES .0100 (2000x)
+Price: 0.01
+Quantity: 2,000x
+
+BUYER: opty 500, DRW 500 844, (125x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 625 LN N25 3.60 Put for .0180
+    - Sells 625 LN N25 3.50 Put for .0080
+    - Buys 50 HP N25 3.83 Futures
+
+BUYER: SIG (300x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 300 LN N25 3.60 Put for .0180
+    - Sells 300 LN N25 3.50 Put for .0080
+    - Buys 24 HP N25 3.83 Futures
+
+BUYER: CS (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 250 LN N25 3.60 Put for .0180
+    - Sells 250 LN N25 3.50 Put for .0080
+    - Buys 20 HP N25 3.83 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN N25 3.60 Put for .0180
+    - Sells 100 LN N25 3.50 Put for .0080
+    - Buys 8 HP N25 3.83 Futures
+
+SELLER: JPM Ganesh (2000x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 2000 LN N25 3.60 Put for .0180
+    - Buys 2000 LN N25 3.50 Put for .0080
+    - Sells 160 HP N25 3.83 Futures
+
+
+========================================
+            TRADE 44
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 4.00/5.00 cs LIVE TRADES .2270 (100x)
+Price: 0.227
+Quantity: 100x
+
+BUYER: Sig (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN Q25 4.00 Call for .2990
+    - Sells 100 LN Q25 5.00 Call for .0720
+
+SELLER: Smit (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN Q25 4.00 Call for .2990
+    - Buys 100 LN Q25 5.00 Call for .0720
+
+
+========================================
+            TRADE 45
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.50p x3.98 21d TRADES .0980 (500x)
+Price: 0.098
+Quantity: 500x
+
+BUYER: Citsec (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE Q25 3.50 Put for .0980
+    - Buys 21 PHE Q25 3.98 Futures
+
+SELLER:  (0x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 500 PHE Q25 3.50 Put for .0980
+    - Sells 105 PHE Q25 3.98 Futures
+
+
+========================================
+            TRADE 46
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 4.00c x3.97 49d TRADES .2920 (750x)
+Price: 0.292
+Quantity: 750x
+
+BUYER: GS Jennani (750x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 750 LN Q25 4.00 Call for .2920
+    - Sells 368 HP Q25 3.97 Futures
+
+SELLER: DRW (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 LN Q25 4.00 Call for .2920
+    - Buys 123 HP Q25 3.97 Futures
+
+SELLER: Optiver (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 LN Q25 4.00 Call for .2920
+    - Buys 98 HP Q25 3.97 Futures
+
+SELLER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN Q25 4.00 Call for .2920
+    - Buys 49 HP Q25 3.97 Futures
+
+
+========================================
+            TRADE 47
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.85 Straddle LIVE TRADES .2210 (25x)
+Price: 0.221
+Quantity: 25x
+
+BUYER: Citsec (25x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 25 LN N25 3.85 Put for .1040
+    - Buys 25 LN N25 3.85 Call for .1170
+
+SELLER: Macq Hassan (25x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 25 LN N25 3.85 Put for .1040
+    - Sells 25 LN N25 3.85 Call for .1170
+
+
+========================================
+            TRADE 48
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 5.00 Call LIVE TRADES .2000 (100x)
+Price: 0.2
+Quantity: 100x
+
+BUYER: Optiver (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE V25 5.00 Call for .2000
+
+SELLER: Tara Kelly (100x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 PHE V25 5.00 Call for .2000
+
+
+========================================
+            TRADE 49
+========================================
+Date: Wednesday June 25th  2025
+Instrument: J26 6.00 Call x4.05 23d  TRADES .1920 (50x)
+Price: 0.192
+Quantity: 50x
+
+BUYER: Belv (50x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 50 PHE J26 6.00 Call for .1920
+    - Sells 11.5 PHE J26 4.05 Futures
+
+SELLER: Macq Pierce (50x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 50 PHE J26 6.00 Call for .1920
+    - Buys 11.5 PHE J26 4.05 Futures
+
+
+========================================
+            TRADE 50
+========================================
+Date: Wednesday June 25th  2025
+Instrument: J26 5.00 conversion x4.04 97d TRADES .9305 (550x)
+Price: 0.9305
+Quantity: 550x
+
+BUYER: Mitsui Glenn (550x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 550 LN J26 5.00 Put for 1.2685
+    - Sells 550 LN J26 5.00 Call for .3380
+    - Buys 534 HP J26 4.04 Futures
+
+SELLER: Belv sells (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 LN J26 5.00 Put for 1.2685
+    - Buys 200 LN J26 5.00 Call for .3380
+    - Sells 194 HP J26 4.04 Futures
+
+SELLER: CTC (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 150 LN J26 5.00 Put for 1.2685
+    - Buys 150 LN J26 5.00 Call for .3380
+    - Sells 146 HP J26 4.04 Futures
+
+
+========================================
+            TRADE 51
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 4.25/5.25 CS LIVE TRADES .1550 (200x)
+Price: 0.155
+Quantity: 200x
+
+BUYER: CTC (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE Q25 4.25 Call for  .2060
+    - Sells 100 PHE Q25 5.25 Call for .0510
+
+SELLER: RWE Glenn (200x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 200 PHE Q25 4.25 Call for  .2060
+    - Buys 200 PHE Q25 5.25 Call for .0510
+
+
+========================================
+            TRADE 52
+========================================
+Date: Wednesday June 25th  2025
+Instrument: JV26 2.50/2.00 1x2 ps LIVE TRADES .0140 (100/mo=700x)
+Price: 0.014
+Quantity: Not specified
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Initiated: BBG 1140
+  Actions:
+    - Buys 50/mo LN JV26 2.50 Put for .0620
+    - Sells 100/mo LN JV26 2.00 Put for .0240
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50/mo LN JV26 2.50 Put for .0620
+    - Buys 100/mo LN JV26 2.00 Put for .0240
+
+
+========================================
+            TRADE 53
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q4'27 LD1 futures TRADES 4.155 (.25/d=23x)
+Price: 4.155
+Quantity: Not specified
+
+BUYER:  (0x)
+  Clearing: ICE Cleared (H)
+  Actions:
+    - Buys .25/d Q427 NG LD1 Futures for 4.155
+
+SELLER:  (0x)
+  Clearing: ICE Cleared (H)
+  Initiated: ICE Chat
+  Actions:
+    - Sells .25/d Q427 NG LD1 Futures for 4.155
+
+
+========================================
+            TRADE 54
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Z25 7.00 Call LIVE TRADES .2200 (25x)
+Price: 0.22
+Quantity: 25x
+
+BUYER: Maven (25x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 25 LN Z25 7.00 Call for .2200
+
+SELLER: Kess (25x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 25 LN Z25 7.00 Call for .2200
+
+
+========================================
+            TRADE 55
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 3.50/2.75 ps LIVE TRADES .1400 (500x)
+Price: 0.14
+Quantity: 500x
+
+BUYER: Sig (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN U25 3.50 Put for .1710
+    - Sells 200 LN U25 2.75 Put for  .0310
+
+BUYER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN U25 3.50 Put for .1710
+    - Sells 100 LN U25 2.75 Put for  .0310
+
+SELLER: Smit (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 500 LN U25 3.50 Put for .1710
+    - Buys 500 LN U25 2.75 Put for  .0310
+
+
+========================================
+            TRADE 56
+========================================
+Date: Wednesday June 25th  2025
+Instrument: X25 6.00c x4.44 24d TRADES .1890 (100x)
+Price: 0.189
+Quantity: 100x
+
+BUYER: Citsesec (50x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 50 PHE X25 6.00 Call for .1890
+    - Sells 12 PHE X25 4.44 Futures
+
+SELLER: Sickafoose (100x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 PHE X25 6.00 Call for .1890
+    - Buys 24 PHE X25 4.44 Futures
+
+
+========================================
+            TRADE 57
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 5.00c x4.06 24d TRADES .1650 (1350x)
+Price: 0.165
+Quantity: 1,350x
+
+BUYER: Optiver (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 500 LN U25 5.00 Call for .1650
+    - Sells 120 HP U25 4.06 Futures
+
+BUYER: Stroke (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN U25 5.00 Call for .1650
+    - Sells 48 HP U25 4.06 Futures
+
+BUYER: Citsec (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 150 LN U25 5.00 Call for .1650
+    - Sells 36 HP U25 4.06 Futures
+
+BUYER: Valk (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN U25 5.00 Call for .1650
+    - Sells 24 HP U25 4.06 Futures
+
+SELLER: JPM Kevin (3000x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 1350 LN U25 5.00 Call for .1650
+    - Buys 324 HP U25 4.06 Futures
+
+
+========================================
+            TRADE 58
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 5.00 Call LIVE TRADES .2470 (100x)
+Price: 0.247
+Quantity: 100x
+
+BUYER: Stroke (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE V25 5.00 Call for .2470
+
+SELLER: Tara (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE V25 5.00 Call for .2470
+
+
+========================================
+            TRADE 59
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 4.25/4.50 1x2 cs LIVE TRADES .1140 (500x)
+Price: 0.114
+Quantity: 500x
+
+BUYER: Stroke (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 400 LN Q25 4.50 Call for .1880
+    - Sells 200 LN Q25 4.25 Call for .2620
+
+BUYER: Valk (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN Q25 4.50 Call for .1880
+    - Sells 100 LN Q25 4.25 Call for .2620
+
+SELLER: Remi (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 1000 LN Q25 4.50 Call for .1880
+    - Buys 500 LN Q25 4.25 Call for .2620
+
+
+========================================
+            TRADE 60
+========================================
+Date: Wednesday June 25th  2025
+Instrument: FH26 3.50/7.25 fence x4.83 45d TRADES .1575 (200/mo=600x)
+Price: 0.1575
+Quantity: Not specified
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 75/mo LN 1Q26 7.25 Call for .3695
+    - Sells 75/mo LN 1Q26 3.50 Put for .2120
+    - Sells 34/mo HP 1Q26 4.83 Futures
+
+BUYER: Rings (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50/mo LN 1Q26 7.25 Call for .3695
+    - Sells 50/mo LN 1Q26 3.50 Put for .2120
+    - Sells 23/mo HP 1Q26 4.83 Futures
+
+BUYER: Sig (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50/mo LN 1Q26 7.25 Call for .3695
+    - Sells 50/mo LN 1Q26 3.50 Put for .2120
+    - Sells 22/mo HP 1Q26 4.83 Futures
+
+BUYER: CTC (25x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 25/mo LN 1Q26 7.25 Call for .3695
+    - Sells 25/mo LN 1Q26 3.50 Put for .2120
+    - Sells 11/mo HP 1Q26 4.83 Futures
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200/mo LN 1Q26 7.25 Call for .3695
+    - Buys 200/mo LN 1Q26 3.50 Put for .2120
+    - Buys 90/mo HP 1Q26 4.83 Futures
+
+
+========================================
+            TRADE 61
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.00/4.30 cs LIVE TRADES .0830 (100x)
+Price: 0.083
+Quantity: 100x
+
+BUYER: Maven (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN N25 4.00 Call for .1190
+    - Sells 100 LN N25 4.30 Call for .0360
+
+SELLER: Smit (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 4.00 Call for .1190
+    - Buys 100 LN N25 4.30 Call for .0360
+
+
+========================================
+            TRADE 62
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 3.00p x4.10 vs. Z25 7.00c x4.94 20d 11d TRADES .1260 (100x)
+Price: 0.126
+Quantity: 100x
+
+BUYER: CTC (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN Z25 7.00 Call for .2240
+    - Sells 20 HP Z25 4.94 Futures
+    - Sells 100 LN V25 3.00 Put for .0980
+    - Sells 11 HP V25 4.10 Futures
+
+SELLER: Kess (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 LN Z25 7.00 Call for .2240
+    - Buys 20 HP Z25 4.94 Futures
+    - Buys 100 LN V25 3.00 Put for .0980
+    - Buys 11 HP V25 4.10 Futures
+
+
+========================================
+            TRADE 63
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.00/4.25cs LIVE TRADES .0800 (200x)
+Price: 0.08
+Quantity: 200x
+
+BUYER: Csec buys (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN N25 4.00 Call for .1300
+    - Sells 200 LN N25 4.25 Call for .0500
+
+SELLER: EDF JW (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 200 LN N25 4.00 Call for .1300
+    - Buys 200 LN N25 4.25 Call for .0500
+
+
+========================================
+            TRADE 64
+========================================
+Date: Wednesday June 25th  2025
+Instrument: UV26 4.25/3.25ps x4.38 21d TRADES .4250 (100/mo=200x)
+Price: 0.425
+Quantity: Not specified
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100/mo LN UV26 4.25 Put for .6510
+    - Sells 100/mo LN UV26 3.25 Put for .2260
+    - Buys 21/mo HP UV26 4.38 Futures
+
+SELLER: CTC (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50/mo LN UV26 4.25 Put for .6510
+    - Buys 50/mo LN UV26 3.25 Put for .2260
+    - Sells 11/mo HP UV26 4.38 Futures
+
+SELLER: Optiver (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50/mo LN UV26 4.25 Put for .6510
+    - Buys 50/mo LN UV26 3.25 Put for .2260
+    - Sells 10/mo HP UV26 4.38 Futures
+
+
+========================================
+            TRADE 65
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 3.00p x4.10 vs X25 6.50c x4.43 11d 16d TRADES .0380 (100x)
+Price: 0.038
+Quantity: 100x
+
+BUYER: Citsec (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN X25 6.50 Call for .1400
+    - Sells 8 HP X25 4.43 Futures
+    - Sells 50 LN V25 3.00 Put for .1020
+    - Sells 6 HP V25 4.10 Futures
+
+BUYER: Rings (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN X25 6.50 Call for .1400
+    - Sells 8 HP X25 4.43 Futures
+    - Sells 50 LN V25 3.00 Put for .1020
+    - Sells 5 HP V25 4.10 Futures
+
+SELLER: Kess (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 LN X25 6.50 Call for .1400
+    - Buys 16 HP X25 4.43 Futures
+    - Buys 100 LN V25 3.00 Put for .1020
+    - Buys 11 HP V25 4.10 Futures
+
+
+========================================
+            TRADE 66
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.75/4.25 1x2 cs LIVE TRADES .1770 (500x)
+Price: 0.177
+Quantity: 500x
+
+BUYER: Remi (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 500 LN N25 3.75 Call for .2770
+    - Sells 1000 LN N25 4.25 Call for .0500
+
+SELLER: Optiver (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 500 LN N25 3.75 Call for .2770
+    - Buys 1000 LN N25 4.25 Call for .0500
+
+
+========================================
+            TRADE 67
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 5.00c LIVE TRADES .1590 (150x)
+Price: 0.159
+Quantity: 150x
+
+BUYER: Csec buys (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 150 LN U25 5.00 Call for .1590
+
+SELLER: Sestric sells (150x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 150 LN U25 5.00 Call for .1590
+
+
+========================================
+            TRADE 68
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Z25 7.00c x4.94 vs. F26 5.00p x5.22 2x1 21d 42d TRADES .2490 (75x)
+Price: 0.249
+Quantity: 75x
+
+BUYER: Kess (75x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 75 LN F26 5.00 Put for .7170
+    - Buys 32 HP F26 5.22 Futures
+    - Sells 150 LN Z25 7.00 Call for .2340
+    - Buys 32 HP Z25 4.94 Futures
+
+SELLER: Rings (75x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 75 LN F26 5.00 Put for .7170
+    - Sells 32 HP F26 5.22 Futures
+    - Buys 150 LN Z25 7.00 Call for .2340
+    - Sells 32 HP Z25 4.94 Futures
+
+
+========================================
+            TRADE 69
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 2.50p LIVE TRADES .0035 (350x)
+Price: 0.0035
+Quantity: 350x
+
+BUYER: Stroke (350x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 350 LN Q25 2.50 Put for .0035
+
+SELLER: Kess (350x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 350 LN Q25 2.50 Put for .0035
+
+
+========================================
+            TRADE 70
+========================================
+Date: Wednesday June 25th  2025
+Instrument: X25 3.25/6.50 fence x4.45 29d TRADES .0170 (100x)
+Price: 0.017
+Quantity: 100x
+
+BUYER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN X25 6.50 Call for .1460
+    - Sells 100 LN X25 3.25 Put for  .1290
+    - Sells 29 HP X25 4.45 Futures
+
+SELLER: Kess (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 LN X25 6.50 Call for .1460
+    - Buys 100 LN X25 3.25 Put for  .1290
+    - Buys 29 HP X25 4.45 Futures
+
+
+========================================
+            TRADE 71
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 3.00/2.50 1x1.5 ps x4.09 5d TRADES .0470 (600x)
+Price: 0.047
+Quantity: 600x
+
+BUYER: Kess (600x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 600 LN V25 3.00 Put for .1040
+    - Sells 900 LN V25 2.50 Put for .0380
+    - Buys 30 HP V25 4.09 Futures
+
+SELLER: DRW (400x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 400 LN V25 3.00 Put for .1040
+    - Buys 600 LN V25 2.50 Put for .0380
+    - Sells 20 HP V25 4.09 Futures
+
+SELLER: Optiver (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN V25 3.00 Put for .1040
+    - Buys 150 LN V25 2.50 Put for .0380
+    - Sells 5 HP V25 4.09 Futures
+
+
+========================================
+            TRADE 72
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 4.00/5.00 cs vs 3.00p x4.02 40d TRADES .1830 (150x)
+Price: 0.183
+Quantity: 150x
+
+BUYER: Engelhart Smit (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN V25 4.00 Call for .5080
+    - Sells 100 LN V25 5.00 Call for .2150
+    - Sells 100 LN V25 3.00 Put for .1100
+    - Sells 40 HP V25 4.02 Futures
+
+BUYER: Stroke (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN V25 4.00 Call for .5080
+    - Sells 50 LN V25 5.00 Call for .2150
+    - Sells 50 LN V25 3.00 Put for .1100
+    - Sells 20 HP V25 4.02 Futures
+
+SELLER: Mitsui Troy (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 150 LN V25 4.00 Call for .5080
+    - Buys 150 LN V25 5.00 Call for .2150
+    - Buys 150 LN V25 3.00 Put for .1100
+    - Buys 60 HP V25 4.02 Futures
+
+
+========================================
+            TRADE 73
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.75p x3.94 39d TRADES .2250 (50x)
+Price: 0.225
+Quantity: 50x
+
+BUYER: Citsec (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN Q25 3.75 Put for .2250
+    - Buys 19 HP Q25 3.94 Futures
+
+SELLER: Macq Index (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN Q25 3.75 Put for .2250
+    - Sells 19 HP Q25 3.94 Futures
+
+
+========================================
+            TRADE 74
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.90p x3.94 47d TRADES .3010 (50x)
+Price: 0.301
+Quantity: 50x
+
+BUYER: Cit sec buys (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN Q25 3.90 Put for .3010
+    - Buys 24 HP Q25 3.94 Futures
+
+SELLER: Macq index selsl (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN Q25 3.90 Put for .3010
+    - Sells 24 HP Q25 3.94 Futures
+
+
+========================================
+            TRADE 75
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 2.50p x3.96 vs X25 2.50p x4.31 4d 4d TRADES .0050 (250x)
+Price: 0.005
+Quantity: 250x
+
+BUYER: Rings (125x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 125 PHE V25 2.50 Put for .0420
+    - Buys 5 PHE V25 3.96 Futures
+    - Sells 125 PHE X25 2.50 Put for .0370
+    - Sells 5 PHE X25 4.31 Futures
+
+SELLER: Val (250x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 250 PHE V25 2.50 Put for .0420
+    - Sells 10 PHE V25 3.96 Futures
+    - Buys 250 PHE X25 2.50 Put for .0370
+    - Buys 10 PHE X25 4.31 Futures
+
+
+========================================
+            TRADE 76
+========================================
+Date: Wednesday June 25th  2025
+Instrument: XZ25 4.00p E7/LN TRADES .0175 (75/mo=150x)
+Price: 0.0175
+Quantity: Not specified
+
+BUYER: RBC JS buys (75x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 75/mo E7 XZ25 4.00 Put for .3465
+    - Sells 75/mo LN XZ25 4.00 Put for .3290
+
+SELLER: Allan sells (75x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 75/mo E7 XZ25 4.00 Put for .3465
+    - Buys 75/mo LN XZ25 4.00 Put for .3290
+
+
+========================================
+            TRADE 77
+========================================
+Date: Wednesday June 25th  2025
+Instrument: JV26 3.75/5.50 1x2 fence E7/LN TRADES .0020 (300/mo=2100x)
+Price: 0.002
+Quantity: Not specified
+
+BUYER: RBC JS buys (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 200/mo E7 JV26 3.75 Put for .4420
+    - Sells 400/mo E7 JV26 5.50 Call for .3290
+    - Sells 200/mo LN JV26 3.75 Put for .4300
+    - Buys 400/mo LN JV26 5.50 Call for .3240
+
+BUYER: BMO buys (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100/mo E7 JV26 3.75 Put for .4420
+    - Sells 200/mo E7 JV26 5.50 Call for .3290
+    - Sells 100/mo LN JV26 3.75 Put for .4300
+    - Buys 200/mo LN JV26 5.50 Call for .3240
+
+SELLER: Allan sells (300x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 300/mo E7 JV26 3.75 Put for .4420
+    - Buys 600/mo E7 JV26 5.50 Call for .3290
+    - Buys 300/mo LN JV26 3.75 Put for .4300
+    - Sells 600/mo LN JV26 5.50 Call for .3240
+
+
+========================================
+            TRADE 78
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.75/4.50cs x3.95 34d TRADES .2650 (100x)
+Price: 0.265
+Quantity: 100x
+
+BUYER: Kess buys (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 LN Q25 3.75 Call for .4210
+    - Sells 100 LN Q25 4.50 Call for .1560
+    - Sells 34 HP Q25 3.95 Futures
+
+SELLER: Csec sells (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN Q25 3.75 Call for .4210
+    - Buys 100 LN Q25 4.50 Call for .1560
+    - Buys 34 HP Q25 3.95 Futures
+
+
+========================================
+            TRADE 79
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.75/4.25cs x3.95 25d TRADES .2030 (75x)
+Price: 0.203
+Quantity: 75x
+
+BUYER: Kess (75x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 75 LN Q25 3.75 Call for .4220
+    - Sells 75 LN Q25 4.25 Call for .2190
+    - Sells 19 HP Q25 3.95 Futures
+
+SELLER: Citsec (75x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 75 LN Q25 3.75 Call for .4220
+    - Buys 75 LN Q25 4.25 Call for .2190
+    - Buys 19 HP Q25 3.95 Futures
+
+
+========================================
+            TRADE 80
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Cal27 3.50/5.00 fence x4.05 66d TRADES .0320 (80/mo= 960x)
+Price: 0.032
+Quantity: Not specified
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50/mo LN Cal27 5.00 Call for .5040
+    - Sells 50/mo LN Cal27 3.50 Put for .4720
+    - Sells 33/mo HP Cal27 4.05 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 30/mo LN Cal27 5.00 Call for .5040
+    - Sells 30/mo LN Cal27 3.50 Put for .4720
+    - Sells 20/mo HP Cal27 4.05 Futures
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 50/mo LN Cal27 5.00 Call for .5040
+    - Buys 50/mo LN Cal27 3.50 Put for .4720
+    - Buys 33/mo HP Cal27 4.05 Futures
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 30/mo LN Cal27 5.00 Call for .5040
+    - Buys 30/mo LN Cal27 3.50 Put for .4720
+    - Buys 20/mo HP Cal27 4.05 Futures
+
+
+========================================
+            TRADE 81
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.75/3.50/3.25 put fly LIVE TRADES .0510 (250x)
+Price: 0.051
+Quantity: 250x
+
+BUYER: TMG (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 150 LN N25 3.75 Put for .1070
+    - Sells 300 LN N25 3.50 Put for .0320
+    - Buys 150 LN N25 3.25 Put for .0080
+
+BUYER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN N25 3.75 Put for .1070
+    - Sells 200 LN N25 3.50 Put for .0320
+    - Buys 100 LN N25 3.25 Put for .0080
+
+SELLER: Mill xander (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 LN N25 3.75 Put for .1070
+    - Buys 500 LN N25 3.50 Put for .0320
+    - Sells 250 LN N25 3.25 Put for .0080
+
+
+========================================
+            TRADE 82
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.75/3.85/4.25/4.35 iron condor LIVE TRADES .0600 (100x)
+Price: 0.06
+Quantity: 100x
+
+BUYER: D stroke (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.75 Put for .1010
+    - Buys 100 LN N25 3.85 Put for .1480
+    - Buys 100 LN N25 4.25 Call for .0440
+    - Sells 100 LN N25 4.35 Call for .0310
+
+SELLER: Smit (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 LN N25 3.75 Put for .1010
+    - Sells 100 LN N25 3.85 Put for .1480
+    - Sells 100 LN N25 4.25 Call for .0440
+    - Buys 100 LN N25 4.35 Call for .0310
+
+
+========================================
+            TRADE 83
+========================================
+Date: Wednesday June 25th  2025
+Instrument: F26 8.00c LIVE TRADES .2870 (100x)
+Price: 0.287
+Quantity: 100x
+
+BUYER: Kess (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 LN F26 8.00 Call for .2870
+
+SELLER: JPM (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN F26 8.00 Call for .2870
+
+
+========================================
+            TRADE 84
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 4.00/5.00 cs vs 3.00p x4.01 40d TRADES .1780 (100x)
+Price: 0.178
+Quantity: 100x
+
+BUYER: Smit (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN V25 4.00 Call for .5050
+    - Sells 100 LN V25 5.00 Call for .2160
+    - Sells 100 LN V25 3.00 Put for .1110
+    - Sells 40 HP V25 4.01 Futures
+
+SELLER: cs and mav (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN V25 4.00 Call for .5050
+    - Buys 50 LN V25 5.00 Call for .2160
+    - Buys 50 LN V25 3.00 Put for .1110
+    - Buys 20 HP V25 4.01 Futures
+
+
+========================================
+            TRADE 85
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25/F26 -1.00c CSO TRADES .1075 (150x)
+Price: 0.1075
+Quantity: 150x
+
+BUYER: Avi buys (100x)
+  Clearing: CME Cleared (G3)
+  Actions:
+    - Buys 50 NG CSO V25/F26 -1.00 Call for .1080
+    - Buys 50 NG CSO V25/F26 -1.00 Call for .1070
+
+BUYER: Hector buys (50x)
+  Clearing: CME Cleared (G3)
+  Actions:
+    - Buys 25 NG CSO V25/F26 -1.00 Call for .1080
+    - Buys 25 NG CSO V25/F26 -1.00 Call for .1070
+
+SELLER:  (0x)
+  Clearing: CME Cleared (G3)
+  Initiated: ICE Chat
+  Actions:
+    - Sells 75 NG CSO V25/F26 -1.00 Call for .1080
+    - Sells 75 NG CSO V25/F26 -1.00 Call for .1070
+
+
+========================================
+            TRADE 86
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.80/3.60 ps LIVE TRADES .0740 (250x)
+Price: 0.074
+Quantity: 250x
+
+BUYER: Evmo (250x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 250 LN N25 3.80 Put for .1370
+    - Sells 250 LN N25 3.60 Put for .0630
+
+SELLER: Citsec (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 LN N25 3.80 Put for .1370
+    - Buys 250 LN N25 3.60 Put for .0630
+
+
+========================================
+            TRADE 87
+========================================
+Date: Wednesday June 25th  2025
+Instrument: X25 3.25/6.50 fence x4.32 28d TRADES .0230 (100x)
+Price: 0.023
+Quantity: 100x
+
+BUYER: E7 buys (100x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 PHE X25 3.25 Put for .1410
+    - Sells 100 PHE X25 6.50 Call for .1180
+    - Buys 28 PHE X25 4.32 Futures
+
+SELLER: 5R sells (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE X25 3.25 Put for .1410
+    - Buys 100 PHE X25 6.50 Call for .1180
+    - Sells 28 PHE X25 4.32 Futures
+
+
+========================================
+            TRADE 88
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 5.00c LIVE TRADES .2030 (100x)
+Price: 0.203
+Quantity: 100x
+
+BUYER: D Stroke (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE V25 5.00 Call for .2030
+
+SELLER: Tara Kelly (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE V25 5.00 Call for .2030
+
+
+========================================
+            TRADE 89
+========================================
+Date: Wednesday June 25th  2025
+Instrument: X25 3.25/6.50 fence x4.32 28d TRADES .0230 (100x)
+Price: 0.023
+Quantity: 100x
+
+BUYER: Kess (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 LN X25 3.25 Put for .1410
+    - Sells 100 LN X25 6.50 Call for .1180
+    - Buys 28 HP X25 4.32 Futures
+
+SELLER: Sig (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN X25 3.25 Put for .1410
+    - Buys 100 LN X25 6.50 Call for .1180
+    - Sells 28 HP X25 4.32 Futures
+
+
+========================================
+            TRADE 90
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.50/3.00 1x2 ps x3.88 10d TRADES .0780 (1000x)
+Price: 0.078
+Quantity: 1,000x
+
+BUYER: Brevan Howard Jeff buys (750x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 1000 LN Q25 3.50 Put for .1400
+    - Sells 2000 LN Q25 3.00 Put for .0310
+    - Buys 100 NG Q25 3.88 Futures
+
+SELLER: BAML Conner sells (550x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 550 LN Q25 3.50 Put for .1400
+    - Buys 1100 LN Q25 3.00 Put for .0310
+    - Sells 55 NG Q25 3.88 Futures
+
+SELLER: Maven sells (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN Q25 3.50 Put for .1400
+    - Buys 200 LN Q25 3.00 Put for .0310
+    - Sells 10 NG Q25 3.88 Futures
+
+SELLER: CTC (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN Q25 3.50 Put for .1400
+    - Buys 100 LN Q25 3.00 Put for .0310
+    - Sells 5 NG Q25 3.88 Futures
+
+
+========================================
+            TRADE 91
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.90/3.50 1x1.5 ps x3.90 6d TRADES .1140 (350x)
+Price: 0.114
+Quantity: 350x
+
+BUYER: cs buy (150x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 150 PHE Q25 3.90 Put for .3120
+    - Sells 225 PHE Q25 3.50 Put for .1320
+    - Buys 9 PHE Q25 3.90 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 PHE Q25 3.90 Put for .3120
+    - Sells 150 PHE Q25 3.50 Put for .1320
+    - Buys 6 PHE Q25 3.90 Futures
+
+SELLER: val sell (350x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 250 PHE Q25 3.90 Put for .3120
+    - Buys 375 PHE Q25 3.50 Put for .1320
+    - Sells 15 PHE Q25 3.90 Futures
+    - Sells 100 PHE Q25 3.90 Put for .3120
+    - Buys 150 PHE Q25 3.50 Put for .1320
+    - Sells 6 PHE Q25 3.90 Futures
+
+
+========================================
+            TRADE 92
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.50/3.25 1x2 ps LIVE TRADES .0200 (1000x)
+Price: 0.02
+Quantity: 1,000x
+
+BUYER: DV Jacob buys (1000x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 1000 LN N25 3.50 Put for .0400
+    - Sells 2000 LN N25 3.25 Put for .0100
+
+SELLER: Drw sells (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 LN N25 3.50 Put for .0400
+    - Buys 500 LN N25 3.25 Put for .0100
+
+SELLER: SIG sells (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 LN N25 3.50 Put for .0400
+    - Buys 400 LN N25 3.25 Put for .0100
+
+SELLER: Csec sells (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 150 LN N25 3.50 Put for .0400
+    - Buys 300 LN N25 3.25 Put for .0100
+
+SELLER: Belv sells (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.50 Put for .0400
+    - Buys 200 LN N25 3.25 Put for .0100
+
+
+========================================
+            TRADE 93
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 4.25/6.00/7.00 1x3x2 call fly LIVE TRADES .1400 (75x)
+Price: 0.14
+Quantity: 75x
+
+BUYER: Akuna buys (75x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 75 LN Q25 4.25 Call for .1870
+    - Sells 225 LN Q25 6.00 Call for .0230
+    - Buys 150 LN Q25 7.00 Call for .0110
+
+SELLER: Kess sells (75x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 75 LN Q25 4.25 Call for .1870
+    - Buys 225 LN Q25 6.00 Call for .0230
+    - Sells 150 LN Q25 7.00 Call for .0110
+
+
+========================================
+            TRADE 94
+========================================
+Date: Wednesday June 25th  2025
+Instrument: F26-Z27 3.25/6.25 fence x4.24 44d TRADES .0270 (60/mo=1440x)
+Price: 0.027
+Quantity: Not specified
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 40/mo LN F26-Z27 6.25 Call for .3130
+    - Sells 40/mo LN F26-Z27 3.25 Put for .2860
+    - Sells 18/mo HP F26-Z27 4.24 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 20/mo LN F26-Z27 6.25 Call for .3130
+    - Sells 20/mo LN F26-Z27 3.25 Put for .2860
+    - Sells 9/mo HP F26-Z27 4.24 Futures
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 60/mo LN F26-Z27 6.25 Call for .3130
+    - Buys 60/mo LN F26-Z27 3.25 Put for .2860
+    - Buys 27/mo HP F26-Z27 4.24 Futures
+
+
+========================================
+            TRADE 95
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 Pen/LD (ICE)  TRADES .0005 (250x)
+Price: 0.0005
+Quantity: 250x
+
+BUYER: Junyi (150x)
+  Clearing: ICE Cleared (H)
+  Actions:
+    - Buys 150 PHE N25 Futures for 3.7405
+    - Sells 150 NG LD1 N25 Futures for 3.74
+
+BUYER: Axiom Carlos (100x)
+  Clearing: ICE Cleared (H)
+  Actions:
+    - Buys 100 PHE N25 Futures for 3.7405
+    - Sells 100 NG LD1 N25 Futures for 3.74
+
+SELLER: DE Shaw Jackson sells (250x)
+  Clearing: ICE Cleared (H)
+  Actions:
+    - Sells 250 PHE N25 Futures for 3.7405
+    - Buys 250 NG LD1 N25 Futures for 3.74
+
+
+========================================
+            TRADE 96
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 Pen/LD (ICE) TRADES .0010 (250x)
+Price: 0.001
+Quantity: 250x
+
+BUYER: Geneva Junyi buys (250x)
+  Clearing: ICE Cleared (H)
+  Actions:
+    - Buys 250 PHE N25 Futures for 3.751
+    - Sells 250 NG LD1 N25 Futures for 3.75
+
+SELLER: DE Shaw Jackson sells (250x)
+  Clearing: ICE Cleared (H)
+  Actions:
+    - Sells 250 PHE N25 Futures for 3.751
+    - Buys 250 NG LD1 N25 Futures for 3.75
+
+
+========================================
+            TRADE 97
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.50/3.25ps vs. 4.10c E7/LN TRADES .0060 (200x)
+Price: 0.006
+Quantity: 200x
+
+BUYER: Allan buys (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 E7 N25 4.10 Call for .0520
+    - Sells 200 E7 N25 3.50 Put for .0630
+    - Buys 200 E7 N25 3.25 Put for .0240
+    - Sells 200 LN N25 4.10 Call for .0460
+    - Buys 200 LN N25 3.50 Put for .0530
+    - Sells 200 LN N25 3.25 Put for .0140
+
+SELLER: RBC JS sells (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 200 E7 N25 4.10 Call for .0520
+    - Buys 200 E7 N25 3.50 Put for .0630
+    - Sells 200 E7 N25 3.25 Put for .0240
+    - Buys 200 LN N25 4.10 Call for .0460
+    - Sells 200 LN N25 3.50 Put for .0530
+    - Buys 200 LN N25 3.25 Put for .0140
+
+
+========================================
+            TRADE 98
+========================================
+Date: Wednesday June 25th  2025
+Instrument: X25 3.75p E7/LN TRADES .0175 (150x)
+Price: 0.0175
+Quantity: 150x
+
+BUYER: RBC JS buys (150x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 150 E7 X25 3.75 Put for .3255
+    - Sells 150 LN X25 3.75 Put for .3080
+
+SELLER: Allan sells (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 150 E7 X25 3.75 Put for .3255
+    - Buys 150 LN X25 3.75 Put for .3080
+
+
+========================================
+            TRADE 99
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.25p x3.84 17d TRADES .0780 (200x)
+Price: 0.078
+Quantity: 200x
+
+BUYER: Optiver (200x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 200 PHE Q25 3.25 Put for .0780
+    - Buys 34 PHE Q25 3.85 Futures
+
+SELLER: Macq Pierce bausano (200x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 200 PHE Q25 3.25 Put for .0780
+    - Sells 34 PHE Q25 3.85 Futures
+
+
+========================================
+            TRADE 100
+========================================
+Date: Wednesday June 25th  2025
+Instrument: FH26 4.00/5.50 fence E7/LN TRADES .0090 (100/mo=300x)
+Price: 0.009
+Quantity: Not specified
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100/mo E7 1Q26 4.00 Put for .4480
+    - Sells 100/mo E7 1Q26 5.50 Call for .6070
+    - Sells 100/mo LN 1Q26 4.00 Put for .4290
+    - Buys 100/mo LN 1Q26 5.50 Call for .5970
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100/mo E7 1Q26 4.00 Put for .4480
+    - Buys 100/mo E7 1Q26 5.50 Call for .6070
+    - Buys 100/mo LN 1Q26 4.00 Put for .4290
+    - Sells 100/mo LN 1Q26 5.50 Call for .5970
+
+
+========================================
+            TRADE 101
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 Pen/LD 1/2 (ICE) TRADES .0015 (500x)
+Price: 0.0015
+Quantity: 500x
+
+BUYER:  (0x)
+  Clearing: ICE Cleared (H)
+  Actions:
+    - Buys 250 PHE N25 Futures for 3.7415
+    - Sells 250 NG LD1 N25 Futures for 3.74
+
+SELLER:  (0x)
+  Clearing: ICE Cleared (H)
+  Initiated: ICE Chat
+  Actions:
+    - Sells 500 PHE N25 Futures for 3.7415
+    - Buys 500 NG LD1 N25 Futures for 3.74
+
+
+========================================
+            TRADE 102
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 4.50c LIVE TRADES .2760 (100x)
+Price: 0.276
+Quantity: 100x
+
+BUYER: Citsec (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE V25 4.50 Call for .2760
+
+SELLER: Tara Kelly (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE V25 4.50 Call for .2760
+
+
+========================================
+            TRADE 103
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 5.00c LIVE TRADES .1750 (100x)
+Price: 0.175
+Quantity: 100x
+
+BUYER: DStroke (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE V25 5.00 Call for .1750
+
+SELLER: Tara Kelly (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE V25 5.00 Call for .1750
+
+
+========================================
+            TRADE 104
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.50/3.25 1x1.5 ps x3.73 13d TRADES .0350 (1000x)
+Price: 0.035
+Quantity: 1,000x
+
+BUYER: DRW Buys (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 500 LN N25 3.50 Put for .0560
+    - Sells 750 LN N25 3.25 Put for .0140
+    - Buys 65 HP N25 3.73 Futures
+
+BUYER: Opt buys (300x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 300 LN N25 3.50 Put for .0560
+    - Sells 450 LN N25 3.25 Put for .0140
+    - Buys 39 HP N25 3.73 Futures
+
+BUYER: Valk buys (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN N25 3.50 Put for .0560
+    - Sells 150 LN N25 3.25 Put for .0140
+    - Buys 13 HP N25 3.73 Futures
+
+SELLER: JPM Ganesh (1000x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 1000 LN N25 3.50 Put for .0560
+    - Buys 1500 LN N25 3.25 Put for .0140
+    - Sells 130 HP N25 3.73 Futures
+
+
+========================================
+            TRADE 105
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.25/3.00ps E7/LN TRADES .0050 (200x)
+Price: 0.005
+Quantity: 200x
+
+BUYER: Allan (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 200 E7 N25 3.25 Put for .0370
+    - Sells 200 E7 N25 3.00 Put for .0150
+    - Sells 200 LN N25 3.25 Put for .0220
+    - Buys 200 LN N25 3.00 Put for .0050
+
+SELLER: Natixis sells (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 150 E7 N25 3.25 Put for .0370
+    - Buys 150 E7 N25 3.00 Put for .0150
+    - Buys 150 LN N25 3.25 Put for .0220
+    - Sells 150 LN N25 3.00 Put for .0050
+
+SELLER: Macq Val sells (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 E7 N25 3.25 Put for .0370
+    - Buys 50 E7 N25 3.00 Put for .0150
+    - Buys 50 LN N25 3.25 Put for .0220
+    - Sells 50 LN N25 3.00 Put for .0050
+
+
+========================================
+            TRADE 106
+========================================
+Date: Wednesday June 25th  2025
+Instrument: JV26 5.00/5.25cs LIVE TRADES .0540 (250/mo=1750x)
+Price: 0.054
+Quantity: Not specified
+
+BUYER: E360 Shrews (250x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 250/mo PHE JV26 5.00 Call for .4110
+    - Sells 250/mo PHE JV26 5.25 Call for .3570
+
+SELLER: Steeg (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100/mo PHE JV26 5.00 Call for .4110
+    - Buys 100/mo PHE JV26 5.25 Call for .3570
+
+SELLER: CTC (75x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 75/mo PHE JV26 5.00 Call for .4110
+    - Buys 75/mo PHE JV26 5.25 Call for .3570
+
+
+========================================
+            TRADE 107
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 3.00p vs. 4.50/7.00cs x3.87 46d TRADES .1030 (250x)
+Price: 0.103
+Quantity: 250x
+
+BUYER: Citsec (125x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 125 LN V25 4.50 Call for .2660
+    - Sells 125 LN V25 7.00 Call for .0340
+    - Sells 125 LN V25 3.00 Put for .1290
+    - Sells 58  HP V25 3.87 Futures
+
+BUYER: Walleye (125x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 125 LN V25 4.50 Call for .2660
+    - Sells 125 LN V25 7.00 Call for .0340
+    - Sells 125 LN V25 3.00 Put for .1290
+    - Sells 57 HP V25 3.87 Futures
+
+SELLER: TMG (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 LN V25 4.50 Call for .2660
+    - Buys 250 LN V25 7.00 Call for .0340
+    - Buys 250 LN V25 3.00 Put for .1290
+    - Buys 115 HP V25 3.87 Futures
+
+
+========================================
+            TRADE 108
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.00/4.25cs x3.69 13d TRADES .0315 (100x)
+Price: 0.0315
+Quantity: 100x
+
+BUYER: TMG (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN N25 4.00 Call for .0505
+    - Sells 100 LN N25 4.25 Call for .0190
+    - Sells 13 HP N25 3.69 Futures
+
+SELLER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 4.00 Call for .0505
+    - Buys 100 LN N25 4.25 Call for .0190
+    - Buys 13 HP N25 3.69 Futures
+
+
+========================================
+            TRADE 109
+========================================
+Date: Wednesday June 25th  2025
+Instrument: F26 5.00/4.00 ps x5.03 20d TRADES .4900 (550x)
+Price: 0.49
+Quantity: 550x
+
+BUYER: Monty (450x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 300 PHE F26 5.00 Put for .7700
+    - Sells 300 PHE F26 4.00 Put for .2800
+    - Buys 60 PHE F26 5.03 Futures
+    - Buys 150 LN F26 5.00 Put for .7700
+    - Sells 150 LN F26 4.00 Put for .2800
+    - Buys 30 HP F26 5.03 Futures
+
+BUYER: CTC (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN F26 5.00 Put for .7700
+    - Sells 100 LN F26 4.00 Put for .2800
+    - Buys 20 HP F26 5.03 Futures
+
+SELLER: Macq Pierce (250x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 300 PHE F26 5.00 Put for .7700
+    - Buys 300 PHE F26 4.00 Put for .2800
+    - Sells 60 PHE F26 5.03 Futures
+
+SELLER: BMO (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 LN F26 5.00 Put for .7700
+    - Buys 250 LN F26 4.00 Put for .2800
+    - Sells 50 HP F26 5.03 Futures
+
+
+========================================
+            TRADE 110
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.15/3.00 ps x3.65 4d TRADES .0070 (100x)
+Price: 0.007
+Quantity: 100x
+
+BUYER: Citsec (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE N25 3.15 Put for .0120
+    - Sells 100 PHE N25 3.00 Put for .0050
+    - Buys 4 PHE N25 3.65 Futures
+
+SELLER:  (0x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE N25 3.15 Put for .0120
+    - Buys 100 PHE N25 3.00 Put for .0050
+    - Sells 4 PHE N25 3.65 Futures
+
+
+========================================
+            TRADE 111
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.25/3.00 ps x3.69 7d TRADES .0145 (100x)
+Price: 0.0145
+Quantity: 100x
+
+BUYER: Citsec (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE N25 3.25 Put for .0195
+    - Sells 100 PHE N25 3.00 Put for .0050
+    - Buys 7 PHE N25 3.69 Futures
+
+SELLER: Maq Pierce (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE N25 3.25 Put for .0195
+    - Buys 100 PHE N25 3.00 Put for .0050
+    - Sells 7 PHE N25 3.69 Futures
+
+
+========================================
+            TRADE 112
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.75/3.50/3.25 put fly LIVE TRADES .0630 (250x)
+Price: 0.063
+Quantity: 250x
+
+BUYER: Citsec (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 250 LN N25 3.75 Put for .1730
+    - Sells 500 LN N25 3.50 Put for .0640
+    - Buys 250 LN N25 3.25 Put for .0180
+
+SELLER: Mill Xander (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 LN N25 3.75 Put for .1730
+    - Buys 500 LN N25 3.50 Put for .0640
+    - Sells 250 LN N25 3.25 Put for .0180
+
+
+========================================
+            TRADE 113
+========================================
+Date: Wednesday June 25th  2025
+Instrument: UV25 4.00/3.00 1x1.5 fence x3.71 70d TRADES .1160 (500/mo=1000x)
+Price: 0.116
+Quantity: Not specified
+
+BUYER: MS Tim buys (300x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 400/mo LN UV25 4.00 Call for .3050
+    - Sells 600/mo LN UV25 3.00 Put for .1260
+    - Sells 280/mo HP UV25 3.71 Futures
+    - Buys 100/mo PHE UV25 4.00 Call for .3050
+    - Sells 150/mo PHE UV25 3.00 Put for .1260
+    - Sells 70/mo PHE UV25 3.71 Futures
+
+SELLER: opt sells (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200/mo LN UV25 4.00 Call for .3050
+    - Buys 300/mo LN UV25 3.00 Put for .1260
+    - Buys 140/mo HP UV25 3.71 Futures
+
+SELLER: 5r selsl (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100/mo PHE UV25 4.00 Call for .3050
+    - Buys 150/mo PHE UV25 3.00 Put for .1260
+    - Buys 70 /mo PHE UV25 3.71 Futures
+
+
+========================================
+            TRADE 114
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.50/3.25 1x1.5 ps x3.60 15d TRADES .0550 (800x)
+Price: 0.055
+Quantity: 800x
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 500 LN N25 3.50 Put for .1060
+    - Sells 750 LN N25 3.25 Put for .0340
+    - Buys 75 HP N25 3.60 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN N25 3.50 Put for .1060
+    - Sells 150 LN N25 3.25 Put for .0340
+    - Buys 15 HP N25 3.60 Futures
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 800 LN N25 3.50 Put for .1060
+    - Buys 1200 LN N25 3.25 Put for .0340
+    - Sells 120 HP N25 3.60 Futures
+
+
+========================================
+            TRADE 115
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 4.25 Call x3.65 28d TRADES .1160 (100x)
+Price: 0.116
+Quantity: 100x
+
+BUYER: MS Tim (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN Q25 4.25 Call for .1160
+    - Sells 28 HP Q25 3.65 Futures
+
+BUYER: Smit (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 LN Q25 3.25 Put for .1080
+    - Sells 100 LN Q25 3.00 Put for .0500
+
+SELLER: Maven (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 LN Q25 4.25 Call for .1160
+    - Buys 28 HP Q25 3.65 Futures
+
+SELLER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN Q25 3.25 Put for .1080
+    - Buys 100 LN Q25 3.00 Put for .0500
+
+
+========================================
+            TRADE 116
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.40/3.00 ps LIVE TRADES .1100 (100x)
+Price: 0.11
+Quantity: 100x
+
+BUYER: Smit (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 LN Q25 3.40 Put for .1600
+    - Sells 100 LN Q25 3.00 Put for .0500
+
+SELLER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN Q25 3.40 Put for .1600
+    - Buys 100 LN Q25 3.00 Put for .0500
+
+
+========================================
+            TRADE 117
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 2.75p vs. 4.00/5.50cs x3.75 45d TRADES .1825 (250x)
+Price: 0.1825
+Quantity: 250x
+
+BUYER: Maven buys (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN V25 4.00 Call for .3565
+    - Sells 100 LN V25 5.50 Call for .0840
+    - Sells 100 LN V25 2.75 Put for .0900
+    - Sells 45 HP V25 3.75 Futures
+
+BUYER: Csec buys (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN V25 4.00 Call for .3565
+    - Sells 50 LN V25 5.50 Call for .0840
+    - Sells 50 LN V25 2.75 Put for .0900
+    - Sells 23 HP V25 3.75 Futures
+
+SELLER: TMG sells (250x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 250 LN V25 4.00 Call for .3565
+    - Buys 250 LN V25 5.50 Call for .0840
+    - Buys 250 LN V25 2.75 Put for .0900
+    - Buys 113 HP V25 3.75 Futures
+
+
+========================================
+            TRADE 118
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 3.00p vs. 4.00/5.00cs x3.75 44d TRADES .0770 (850x)
+Price: 0.077
+Quantity: 850x
+
+BUYER: DRW Alex (750x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 750 LN V25 4.00 Call for .3560
+    - Sells 750 LN V25 5.00 Call for .1330
+    - Sells 750 LN V25 3.00 Put for .1460
+    - Sells 330 HP V25 3.75 Futures
+
+BUYER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN V25 4.00 Call for .3560
+    - Sells 100 LN V25 5.00 Call for .1330
+    - Sells 100 LN V25 3.00 Put for .1460
+    - Sells 44 HP V25 3.75 Futures
+
+SELLER: TMG (250x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 250 LN V25 4.00 Call for .3560
+    - Buys 250 LN V25 5.00 Call for .1330
+    - Buys 250 LN V25 3.00 Put for .1460
+    - Buys 110 HP V25 3.75 Futures
+
+SELLER: Ken King (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 350 LN V25 4.00 Call for .3560
+    - Buys 350 LN V25 5.00 Call for .1330
+    - Buys 350 LN V25 3.00 Put for .1460
+    - Buys 154 HP V25 3.75 Futures
+
+
+========================================
+            TRADE 119
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.25/4.50 cs LIVE TRADES .0070 (650x)
+Price: 0.007
+Quantity: 650x
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 250 LN N25 4.25 Call for .0120
+    - Sells 250 LN N25 4.50 Call for .0050
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN N25 4.25 Call for .0120
+    - Sells 200 LN N25 4.50 Call for .0050
+
+SELLER: Smit (600x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 650 LN N25 4.25 Call for .0120
+    - Buys 650 LN N25 4.50 Call for .0050
+
+
+========================================
+            TRADE 120
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.25p x3.56 18d TRADES .0390 (400x)
+Price: 0.039
+Quantity: 400x
+
+BUYER: Maven buys (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 150 LN N25 3.25 Put for .0390
+    - Buys 27 HP N25 3.56 Futures
+
+BUYER: Macq Pierce ice buys (250x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 250 PHE N25 3.25 Put for .0390
+    - Buys 45 PHE N25 3.56 Futures
+
+SELLER: Dstroke sells (400x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 150 LN N25 3.25 Put for .0390
+    - Sells 27 HP N25 3.56 Futures
+    - Sells 250 PHE N25 3.25 Put for .0390
+    - Sells 45 PHE N25 3.56 Futures
+
+
+========================================
+            TRADE 121
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 3.20p E7/LN TRADES .0125 (100x)
+Price: 0.0125
+Quantity: 100x
+
+BUYER: RBC JS (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 E7 V25 3.20 Put for .2195
+    - Sells 100 LN V25 3.20 Put for .2070
+
+SELLER: Stroke (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 E7 V25 3.20 Put for .2195
+    - Buys 100 LN V25 3.20 Put for .2070
+
+
+========================================
+            TRADE 122
+========================================
+Date: Wednesday June 25th  2025
+Instrument: X25 5.50 Call x4.10 23d TRADES .1660 (100x)initiated ICE Chat Victor
+Price: 0.166
+Quantity: 100x
+
+BUYER: Citi Ken Lee (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN X25 5.50 Call for  .1660
+    - Sells 46 HP X25 4.10 Futures
+
+SELLER: Steeg (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN X25 5.50 Call for .1660
+    - Buys 23  HP X25 4.10 Futures
+
+
+========================================
+            TRADE 123
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.25p x3.55 19d TRADES .0400 (250x)
+Price: 0.04
+Quantity: 250x
+
+BUYER: Pierce Bausano (250x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 250 PHE N25 3.25 Put for  .0400
+    - Buys 47.5 PHE N25 3.55 Futures
+
+SELLER: Optiver (250x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 250 PHE N25 3.25 Put for  .0400
+    - Sells 47.5 PHE N25 3.55 Futures
+
+
+========================================
+            TRADE 124
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.00p E7/LN TRADES .01250 (100x)
+Price: 0.0125
+Quantity: 100x
+
+BUYER: CBC Wasack buys (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 E7 N25 3.00 Put for .0215
+    - Sells 100 LN N25 3.00 Put for .0090
+
+SELLER: DV Jacob sells (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 E7 N25 3.00 Put for .0215
+    - Buys 100 LN N25 3.00 Put for .0090
+
+
+========================================
+            TRADE 125
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 4.50/5.50cs x3.64 16d TRADES .0890 (100x)
+Price: 0.089
+Quantity: 100x
+
+BUYER: Kess buys (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 LN U25 4.50 Call for .1320
+    - Sells 100 LN U25 5.50 Call for .0430
+    - Sells 16 HP U25 3.64 Futures
+
+SELLER: Optiver (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN U25 4.50 Call for .1320
+    - Buys 100 LN U25 5.50 Call for .0430
+    - Buys 16 HP U25 3.64 Futures
+
+
+========================================
+            TRADE 126
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.75 strad vs. Q25 3.25p LIVE TRADES .4865 (25x)
+Price: 0.4865
+Quantity: 25x
+
+BUYER: Citsec (25x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 25 LN Q25 3.75 Put for .3375
+    - Buys 25 LN Q25 3.75 Call for .2600
+    - Sells 25 LN Q25 3.25 Put for .1110
+
+SELLER: Kess (25x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 25 LN Q25 3.75 Put for .3375
+    - Sells 25 LN Q25 3.75 Call for .2600
+    - Buys 25 LN Q25 3.25 Put for .1110
+
+
+========================================
+            TRADE 127
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 4.50/5.50cs LIVE TRADES .0925 (50x)
+Price: 0.0925
+Quantity: 50x
+
+BUYER: Kess (50x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 50 LN U25 4.50 Call for .1375
+    - Sells 50 LN U25 5.50 Call for .0450
+
+SELLER: Citsec (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN U25 4.50 Call for .1375
+    - Buys 50 LN U25 5.50 Call for .0450
+
+
+========================================
+            TRADE 128
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 4.50/5.50cs LIVE TRADES .0925 (25x)
+Price: 0.0925
+Quantity: 25x
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 25 LN U25 4.50 Call for .1375
+    - Sells 25LN U25 5.50 Call for .0450
+
+SELLER: Citsec (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 25 LN U25 4.50 Call for .1375
+    - Buys 25 LN U25 5.50 Call for .0450
+
+
+========================================
+            TRADE 129
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.75 strad vs. Q25 3.25p LIVE TRADES .4875 (50x)
+Price: 0.4875
+Quantity: 50x
+
+BUYER: Citsec (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN Q25 3.75 Put for .3385
+    - Buys 50 LN Q25 3.75 Call for .2600
+    - Sells 50 LN Q25 3.25 Put for .1110
+
+SELLER: Kess (50x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 50 LN Q25 3.75 Put for .3385
+    - Sells 50 LN Q25 3.75 Call for .2600
+    - Buys 50 LN Q25 3.25 Put for .1110
+
+
+========================================
+            TRADE 130
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.25/3.0ps x3.55 14d TRADES .0320 (500x)
+Price: 0.032
+Quantity: 500x
+
+BUYER: Jeff buys (500x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 500 LN N25 3.25 Put for .0420
+    - Sells 500 LN N25 3.00 Put for .0100
+    - Buys 70 NG N25 3.55 Futures
+
+SELLER: Opt sells (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 LN N25 3.25 Put for .0420
+    - Buys 200 LN N25 3.00 Put for .0100
+    - Sells 28 NG N25 3.55 Futures
+
+SELLER: Cssec sells (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.25 Put for .0420
+    - Buys 100 LN N25 3.00 Put for .0100
+    - Sells 14 NG N25 3.55 Futures
+
+
+========================================
+            TRADE 131
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.25p x3.52 21d TRADES .0480 (100x)
+Price: 0.048
+Quantity: 100x
+
+BUYER: Macq Pierce buys (100x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 PHE N25 3.25 put for .0480
+    - Buys 21 PHE N25 3.52 Futures
+
+SELLER: DRW sells (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE N25 3.25 put for .0480
+    - Sells 21 PHE N25 3.52 Futures
+
+
+========================================
+            TRADE 132
+========================================
+Date: Wednesday June 25th  2025
+Instrument: X26/F27 TRADES .589 (250x)
+Price: 0.589
+Quantity: 250x
+
+BUYER: E7 Herren (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 250 NG F27 Futures for 5.049
+    - Sells 250 NG X26 Futures for 4.460
+
+SELLER: JPM Ishan (250x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 250 NG F27 Futures for 5.049
+    - Buys 250 NG X26 Futures for 4.460
+
+
+========================================
+            TRADE 133
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 4.25/5.25 CS LIVE TRADES .0880 (200x)
+Price: 0.088
+Quantity: 200x
+
+BUYER: RWE Glenn (200x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 200 PHE Q25 4.25 Call for .1150
+    - Sells 200 PHE Q25 5.25 Call for .0270
+
+BUYER: Wasack (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 E7 N25 3.00 put for .0245
+    - Sells 200 LN N25 3.00 put for .0120
+
+SELLER:  (0x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE Q25 4.25 Call for .1150
+    - Buys 100 PHE Q25 5.25 Call for .0270
+
+SELLER: Stroke (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 E7 N25 3.00 put for .0245
+    - Buys 100 LN N25 3.00 put for .0120
+
+
+========================================
+            TRADE 134
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 4.00c x3.61 37d TRADES .2300 (850x)
+Price: 0.23
+Quantity: 850x
+
+BUYER: MS Tim buys (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 500 LN U25 4.00 Call for .2300
+    - Sells 185 HP U25 3.61 Futures
+
+BUYER: OPT (250x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 250 PHE U25 4.00 Call for .2300
+    - Sells 92.5 PHE U25 3.61 Futures
+
+BUYER: TMG (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE U25 4.00 Call for .2300
+    - Sells 37 PHE U25 3.61 Futures
+
+SELLER: Shrewbury (350x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 350 PHE U25 4.00 Call for .2300
+    - Buys 129.5 PHE U25 3.61 Futures
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 350 LN U25 4.00 Call for .2300
+    - Buys 129 HP U25 3.61 Futures
+
+SELLER: CSec sells (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 150 LN U25 4.00 Call for .2300
+    - Buys 56 HP U25 3.61 Futures
+
+
+========================================
+            TRADE 135
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.25/3.95 strangle LIVE TRADES .2920 (50x)
+Price: 0.292
+Quantity: 50x
+
+BUYER: Citsec (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN Q25 3.25 Put for .1310
+    - Buys 50 LN Q25 3.95 Call for .1610
+
+SELLER: Macq Hassan (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN Q25 3.25 Put for .1310
+    - Sells 50 LN Q25 3.95 Call for .1610
+
+
+========================================
+            TRADE 136
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.50/3.60cs x3.48 11d TRADES .0400 (150x)
+Price: 0.04
+Quantity: 150x
+
+BUYER: MS Tim (150x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 150 LN N25 3.50 Call for .1440
+    - Sells 150 LN N25 3.60 Call for .1040
+    - Sells 17 HP N25 3.48 Futures
+
+SELLER: Citsec (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 150 LN N25 3.50 Call for .1440
+    - Buys 150 LN N25 3.60 Call for .1040
+    - Buys 17 HP N25 3.48 Futures
+
+
+========================================
+            TRADE 137
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.30/3.80 fence LIVE TRADES .0250 (100x)
+Price: 0.025
+Quantity: 100x
+
+BUYER: Smit (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN N25 3.30 Put for .0750
+    - Sells 100 LN N25 3.80 Call for .0500
+
+SELLER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.30 Put for .0750
+    - Buys 100 LN N25 3.80 Call for .0500
+
+
+========================================
+            TRADE 138
+========================================
+Date: Wednesday June 25th  2025
+Instrument: F26/J26 TRADES 1.012 (250x)
+Price: 1.012
+Quantity: 250x
+
+BUYER: Rokos Clifford (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 250 NG F26 Futures for 4.912
+    - Sells 250 NG J26 Futures for 3.900
+
+SELLER: E7 Herren (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 NG F26 Futures for 4.912
+    - Buys 250 NG J26 Futures for 3.900
+
+
+========================================
+            TRADE 139
+========================================
+Date: Wednesday June 25th  2025
+Instrument: F27/J27 TRADES 1.583 (250x)
+Price: 1.583
+Quantity: 250x
+
+BUYER: Ishan (250x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 250 NG F27 Futures for 5.072
+    - Sells 250 NG J27 Futures for 3.489
+
+SELLER: E7 Brett Herren (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 NG F27 Futures for 5.072
+    - Buys 250 NG J27 Futures for 3.489
+
+
+========================================
+            TRADE 140
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.00/3.50ps x3.56 44d TRADES .3480 (1000x)
+Price: 0.348
+Quantity: 1,000x
+
+BUYER:  (0x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 500 PHE N25 4.00 Put for .4700
+    - Sells 500 PHE N25 3.50 Put for .1220
+    - Buys 220 PHE N25 3.56 Futures
+
+BUYER: SIG buy (300x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 300 PHE N25 4.00 Put for .4700
+    - Sells 300 PHE N25 3.50 Put for .1220
+    - Buys 132 PHE N25 3.56 Futures
+
+BUYER: CTC buy (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE N25 4.00 Put for .4700
+    - Sells 100 PHE N25 3.50 Put for .1220
+    - Buys 44 PHE N25 3.56 Futures
+
+SELLER:  (0x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 1000 PHE N25 4.00 Put for .4700
+    - Buys 1000 PHE N25 3.50 Put for .1220
+    - Sells 440 PHE N25 3.56 Futures
+
+
+========================================
+            TRADE 141
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 4.50c x3.68 vs. V25 4.00c x3.77 24d 47d TRADES .2190 (200x)
+Price: 0.219
+Quantity: 200x
+
+BUYER: Kess (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 200 LN V25 4.00 Call for .3630
+    - Sells 94 HP V25 3.77 Futures
+    - Sells 200 LN U25 4.50 Call for .1440
+    - Buys 48 HP U25 3.68 Futures
+
+SELLER: walleye sells (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN V25 4.00 Call for .3630
+    - Buys 47 HP V25 3.77 Futures
+    - Buys 100 LN U25 4.50 Call for .1440
+    - Sells 24 HP U25 3.68 Futures
+
+SELLER: belv sells (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN V25 4.00 Call for .3630
+    - Buys 24 HP V25 3.77 Futures
+    - Buys 50 LN U25 4.50 Call for .1440
+    - Sells 12 HP U25 3.68 Futures
+
+SELLER: csec sells (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN V25 4.00 Call for .3630
+    - Buys 23 HP V25 3.77 Futures
+    - Buys 50 LN U25 4.50 Call for .1440
+    - Sells 12 HP U25 3.68 Futures
+
+
+========================================
+            TRADE 142
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 4.00/4.50 1x2 cs LIVE TRADES .0270 (150x)
+Price: 0.027
+Quantity: 150x
+
+BUYER: Citsec (150x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 300 PHE U25 4.50 Call for .1420
+    - Sells 150 PHE U25 4.00 Call for .2570
+
+SELLER: DRW Hugh (150x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 300 PHE U25 4.50 Call for .1420
+    - Buys 150 PHE U25 4.00 Call for .2570
+
+
+========================================
+            TRADE 143
+========================================
+Date: Wednesday June 25th  2025
+Instrument: NU25 4.00c E7/LN TRADES .0150 (100/mo=300x)
+Price: 0.015
+Quantity: Not specified
+
+BUYER: RBC Cat buys (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100/mo E7 3Q25 4.00 Call for .1540
+    - Sells 100/mo LN 3Q25 4.00 Call for .1390
+
+SELLER: Dstroke sells (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100/mo E7 3Q25 4.00 Call for .1540
+    - Buys 100/mo LN 3Q25 4.00 Call for .1390
+
+
+========================================
+            TRADE 144
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 2.50p LIVE TRADES .0110 (100x)
+Price: 0.011
+Quantity: 100x
+
+BUYER: kess buys (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 LN Q25 2.50 Put for .0110
+
+SELLER: csec sells (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN Q25 2.50 Put for .0110
+
+
+========================================
+            TRADE 145
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.30/4.15 strangle LIVE TRADES .2680 (100x)
+Price: 0.268
+Quantity: 100x
+
+BUYER: Csec buys (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN Q25 3.30 Put for .1430
+    - Buys 50 LN Q25 4.15 Call for .1250
+
+SELLER: Macq Index sells (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN Q25 3.30 Put for .1430
+    - Sells 100 LN Q25 4.15 Call for .1250
+
+
+========================================
+            TRADE 146
+========================================
+Date: Wednesday June 25th  2025
+Instrument: NV25 5.00c x3.60 10d TRADES .0560 (600/mo=2400x)
+Price: 0.056
+Quantity: Not specified
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200/mo LN NV25 5.00 Call for .0560
+    - Sells 20/mo HP NV25 3.60 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100/mo LN NV25 5.00 Call for .0560
+    - Sells 10/mo HP NV25 3.60 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50/mo LN NV25 5.00 Call for .0560
+    - Sells 5/mo HP NV25 3.60 Futures
+
+SELLER: Modin sell (600x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 600/mo LN NV25 5.00 Call for .0560
+    - Buys 60/mo HP NV25 3.60 Futures
+
+
+========================================
+            TRADE 147
+========================================
+Date: Wednesday June 25th  2025
+Instrument: F26 4.00p x4.92 vs. H26 4.00p x4.21 24d/37d TRADES .3100 (250x)
+Price: 0.31
+Quantity: 250x
+
+BUYER: Walleye buys (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN H26 4.00 Put for .6200
+    - Buys 37 HP H26 4.21 Futures
+    - Sells 100 LN F26 4.00 Put for .3100
+    - Sells 24 HP F26 4.92 Futures
+
+BUYER: Maven buys (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN H26 4.00 Put for .6200
+    - Buys 19 HP H26 4.21 Futures
+    - Sells 50 LN F26 4.00 Put for .3100
+    - Sells 12 HP F26 4.92 Futures
+
+SELLER: Monty sells (150x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 250 LN H26 4.00 Put for .6200
+    - Sells 93 HP H26 4.21 Futures
+    - Buys 250 LN F26 4.00 Put for .3100
+    - Buys 60 HP F26 4.92 Futures
+
+
+========================================
+            TRADE 148
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 4.00/3.00/2.50 put fly x3.72 24d TRADES .3700 (200x)
+Price: 0.37
+Quantity: 200x
+
+BUYER: Kess buys (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 200 LN V25 4.00 Put for .6220
+    - Sells 400 LN V25 3.00 Put for .1530
+    - Buys 200 LN V25 2.50 Put for .0540
+    - Buys 48 HP V25 3.72 Futures
+
+SELLER: Csec sells (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 LN V25 4.00 Put for .6220
+    - Buys 400 LN V25 3.00 Put for .1530
+    - Sells 200 LN V25 2.50 Put for .0540
+    - Sells 48 HP V25 3.72 Futures
+
+
+========================================
+            TRADE 149
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 4.50c x3.60 18d TRADES .0710 (1000x)
+Price: 0.071
+Quantity: 1,000x
+
+BUYER: Ron Schneiderov Citadel buys (1000x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 1000 PHE Q25 4.50 Call for .0710
+    - Sells 180 PHE Q25 3.60 Futures
+
+SELLER: Dstroke sells (600x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 600 PHE Q25 4.50 Call for .0710
+    - Buys 108 PHE Q25 3.60 Futures
+
+SELLER: Akuna sells (200x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 200 PHE Q25 4.50 Call for .0710
+    - Buys 36 PHE Q25 3.60 Futures
+
+SELLER: Cit Sec sells (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE Q25 4.50 Call for .0710
+    - Buys 18 PHE Q25 3.60 Futures
+
+
+========================================
+            TRADE 150
+========================================
+Date: Wednesday June 25th  2025
+Instrument: NV25 5.00c x3.60 10d TRADES .0570 (500/mo=2000x)
+Price: 0.057
+Quantity: Not specified
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 300/mo LN NV25 5.00 Call for .0570
+    - Sells 30/mo HP NV25 3.60 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100/mo LN NV25 5.00 Call for .0570
+    - Sells 10/mo HP NV25 3.60 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50/mo LN NV25 5.00 Call for .0570
+    - Sells 5/mo HP NV25 3.60 Futures
+
+SELLER: GS Jay (500x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 500/mo LN NV25 5.00 Call for .0570
+    - Buys 50/mo HP NV25 3.60 Futures
+
+
+========================================
+            TRADE 151
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25/F26 -.50/-.25cs CSO TRADES .0070 (1685x)
+Price: 0.007
+Quantity: 1,685x
+
+BUYER: Hector (1685x)
+  Clearing: CME Cleared (G3)
+  Initiated: ICE Chat
+  Actions:
+    - Buys 1685 NG CSO V25/F26 -.50 Call for .010
+    - Sells 1685 NG CSO V25/F26 -.25 Call for .003
+
+SELLER: Brendan (1685x)
+  Clearing: CME Cleared (G3)
+  Actions:
+    - Sells 1685 NG CSO V25/F26 -.50 Call for .010
+    - Buys 1685 NG CSO V25/F26 -.25 Call for .003
+
+
+========================================
+            TRADE 152
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.50 Call x3.51 55d TRADES .1630 (1250x)
+Price: 0.163
+Quantity: 1,250x
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 300 LN N25 3.50 Call for .1630
+    - Sells 165 HP N25 3.51 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN N25 3.50 Call for .1630
+    - Sells 110 HP N25 3.51 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 150 LN N25 3.50 Call for .1630
+    - Sells 83 HP N25 3.51 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN N25 3.50 Call for .1630
+    - Sells 82 HP N25 3.51 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN N25 3.50 Call for .1630
+    - Sells 55 HP N25 3.51 Futures
+
+SELLER: GS Jennani (1250x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 1250 LN N25 3.50 Call for .1630
+    - Buys 688 HP N25 3.51 Futures
+
+
+========================================
+            TRADE 153
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.75/3.00 1x1.5 ps x3.61 34d TRADES .2775 (100x)
+Price: 0.2775
+Quantity: 100x
+
+BUYER: Kess (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 LN Q25 3.75 Put for .3735
+    - Sells 150 LN Q25 3.00 Put for .0640
+    - Buys 34 HP Q25 3.61 Futures
+
+SELLER: Optiver (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN Q25 3.75 Put for .3735
+    - Buys 150 LN Q25 3.00 Put for .0640
+    - Sells 34 HP Q25 3.61 Futures
+
+
+========================================
+            TRADE 154
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 5.00/6.00 3x5.75 cs LIVE TRADES .0750 (100x)
+Price: 0.075
+Quantity: 100x
+
+BUYER: Optiver (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 300 LN V25 5.00 Call for .1285
+    - Sells 575 LN V25 6.00 Call for .0540
+
+SELLER: Vitol George breen (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 300 LN V25 5.00 Call for .1285
+    - Buys 575 LN V25 6.00 Call for .0540
+
+
+========================================
+            TRADE 155
+========================================
+Date: Wednesday June 25th  2025
+Instrument: G26 4.50/3.25ps x4.60 28d TRADES .5750 (250x)
+Price: 0.575
+Quantity: 250x
+
+BUYER: Baly Jason (250x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 250 LN G26 4.50 Put for .7510
+    - Sells 250 LN G26 3.25 Put for .1760
+    - Buys 70 HP G26 4.60 Futures
+
+SELLER: 5 Rings (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN G26 4.50 Put for .7510
+    - Buys 100 LN G26 3.25 Put for .1760
+    - Sells 28 HP G26 4.60 Futures
+
+SELLER: Optiver (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN G26 4.50 Put for .7510
+    - Buys 50 LN G26 3.25 Put for .1760
+    - Sells 14 HP G26 4.60 Futures
+
+
+========================================
+            TRADE 156
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.25p E7/LN TRADES .0225 (200x)
+Price: 0.0225
+Quantity: 200x
+
+BUYER: Wasack (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 200 E7 N25 3.25 Put for .0925
+    - Sells 200 LN N25 3.25 Put for .0700
+
+SELLER: Stroke (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 E7 N25 3.25 Put for .0925
+    - Buys 100 LN N25 3.25 Put for .0700
+
+
+========================================
+            TRADE 157
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.70c x3.50 30d TRADES .0805 (100x)
+Price: 0.0805
+Quantity: 100x
+
+BUYER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN N25 3.70 Call for .0805
+    - Sells 30 HP N25 3.50 Futures
+
+SELLER: Maven (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 LN N25 3.70 Call for .0805
+    - Buys 30 HP N25 3.50 Futures
+
+
+========================================
+            TRADE 158
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.25/4.25 1.5x1 fence x3.60 65d TRADES .0940 (250x)
+Price: 0.094
+Quantity: 250x
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 189 LN Q25 3.25 Put for .1320
+    - Sells 126 LN Q25 4.25 Call for .1040
+    - Buys 82 HP Q25 3.60 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 186 LN Q25 3.25 Put for .1320
+    - Sells 124 LN Q25 4.25 Call for .1040
+    - Buys 81 HP Q25 3.60 Futures
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 375 LN Q25 3.25 Put for .1320
+    - Buys 250 LN Q25 4.25 Call for .1040
+    - Sells 163 HP Q25 3.60 Futures
+
+
+========================================
+            TRADE 159
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.40/3.00 ps LIVE TRADES .1200 (100x)
+Price: 0.12
+Quantity: 100x
+
+BUYER: Maven (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN Q25 3.40 Put for .1840
+    - Sells 50 LN Q25 3.00 Put for .0640
+
+SELLER: Engelhart Smit (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 LN Q25 3.40 Put for .1840
+    - Buys 100 LN Q25 3.00 Put for .0640
+
+
+========================================
+            TRADE 160
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.00/2.50 1x3 ps LIVE TRADES .0290 (250x)
+Price: 0.029
+Quantity: 250x
+
+BUYER: Citsec (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 250 LN Q25 3.00 Put for .0620
+    - Sells 750 LN Q25 2.50 Put for .0110
+
+SELLER: Kess (250x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 250 LN Q25 3.00 Put for .0620
+    - Buys 750 LN Q25 2.50 Put for .0110
+
+
+========================================
+            TRADE 161
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Cal26 3.50p x4.37 22d TRADES .3060 (100/mo=1200x)
+Price: 0.306
+Quantity: Not specified
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100/mo LN Cal26 3.50 Put for .3060
+    - Buys 22/mmo HP Cal26 4.37 Futures
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100/mo LN Cal26 3.50 Put for .3060
+    - Sells 22/mmo HP Cal26 4.37 Futures
+
+
+========================================
+            TRADE 162
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.50/3.25 ps x3.63 14d TRADES .1000 (2000x)
+Price: 0.1
+Quantity: 2,000x
+
+BUYER: Optiver (700x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 700 LN Q25 3.50 Put for .2280
+    - Sells 700 LN Q25 3.25 Put for .1280
+    - Buys 98 HP Q25 3.63 Futures
+
+BUYER: Gator (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 500 LN Q25 3.50 Put for .2280
+    - Sells 500 LN Q25 3.25 Put for .1280
+    - Buys 70 HP Q25 3.63 Futures
+
+BUYER: Citsec (400x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 400 LN Q25 3.50 Put for .2280
+    - Sells 400 LN Q25 3.25 Put for .1280
+    - Buys 56 HP Q25 3.63 Futures
+
+BUYER: CTC (300x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 300 LN Q25 3.50 Put for .2280
+    - Sells 300 LN Q25 3.25 Put for .1280
+    - Buys 42 HP Q25 3.63 Futures
+
+BUYER: Maven (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN Q25 3.50 Put for .2280
+    - Sells 100 LN Q25 3.25 Put for .1280
+    - Buys 14 HP Q25 3.63 Futures
+
+SELLER: JPM Ganesh (2000x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 2000 LN Q25 3.50 Put for .2280
+    - Buys 2000 LN Q25 3.25 Put for .1280
+    - Sells 280 HP Q25 3.63 Futures
+
+
+========================================
+            TRADE 163
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.25 Put E7/LN TRADES .0210 (200x)
+Price: 0.021
+Quantity: 200x
+
+BUYER: CIBC Wasack (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 E7 N25 3.25 Put for .0810
+    - Sells 200 LN N25 3.25 Put for .0600
+
+SELLER: DStroke (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 E7 N25 3.25 Put for .0810
+    - Buys 100 LN N25 3.25 Put for .0600
+
+
+========================================
+            TRADE 164
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U27/V27 TRADES .0570 (250x)
+Price: 0.057
+Quantity: 250x
+
+BUYER: JPM Ishan buys (250x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 250 NG V27 Futures for 3.830
+    - Sells 250 NG U27 Futures for 3.773
+
+SELLER: Goldman Russell (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 NG V27 Futures for 3.830
+    - Buys 250 NG U27 Futures for 3.773
+
+
+========================================
+            TRADE 165
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.30/4.00 strangle LIVE TRADES .3130 (35x)
+Price: 0.313
+Quantity: 35x
+
+BUYER: Optiver (35x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 35 LN Q25 3.30 Put for .1440
+    - Buys 35 LN Q25 4.00 Call for .1690
+
+SELLER: Macq Index Hassan (35x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 35 LN Q25 3.30 Put for .1440
+    - Sells 35 LN Q25 4.00 Call for .1690
+
+
+========================================
+            TRADE 166
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Cal26 3.50/3.00ps LIVE TRADES .1530 (25/mo=300x)
+Price: 0.153
+Quantity: Not specified
+
+BUYER: Hartree Jackie Sparling (25x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 25/mo PHE Cal26 3.50 Put for .3110
+    - Sells 25/mo PHE Cal26 3.00 Put for .1580
+
+SELLER: CTC (25x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 25/mo PHE Cal26 3.50 Put for .3110
+    - Buys 25/mo PHE Cal26 3.00 Put for .1580
+
+
+========================================
+            TRADE 167
+========================================
+Date: Wednesday June 25th  2025
+Instrument: JV26 3.50p x4.16 25d TRADES .3440 (100/mo=700x)
+Price: 0.344
+Quantity: Not specified
+
+BUYER:  (0x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 50/mo PHE JV26 3.50 Put for .3440
+    - Buys 12.5/mo PHE JV26 4.16 Futures
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50/mo LN JV26 3.50 Put for .3440
+    - Buys 13/mo HP JV26 4.16 Futures
+
+SELLER:  (0x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 50/mo LN JV26 3.50 Put for .3440
+    - Sells 13/mo HP JV26 4.16 Futures
+    - Sells 50/mo PHE JV26 3.50 Put for .3440
+    - Sells 12.5/mo PHE JV26 4.16 Futures
+
+
+========================================
+            TRADE 168
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 3.75/4.00cs x3.71 8d TRADES .0935 (1000x)
+Price: 0.0935
+Quantity: 1,000x
+
+BUYER: Monty (1000x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 1000 PHE V25 3.75 Call for .4355
+    - Sells 1000 PHE V25 4.00 Call for .3420
+    - Sells 80 PHE V25 3.71 Futures
+
+SELLER: Citsec (300x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 300 PHE V25 3.75 Call for .4355
+    - Buys 300 PHE V25 4.00 Call for .3420
+    - Buys 24 PHE V25 3.71 Futures
+
+SELLER: Sig (250x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 250 PHE V25 3.75 Call for .4355
+    - Buys 250 PHE V25 4.00 Call for .3420
+    - Buys 20 PHE V25 3.71 Futures
+
+SELLER: Belv (200x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 200 PHE V25 3.75 Call for .4355
+    - Buys 200 PHE V25 4.00 Call for .3420
+    - Buys 16 PHE V25 3.71 Futures
+
+SELLER: DStroke (150x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 150 PHE V25 3.75 Call for .4355
+    - Buys 150 PHE V25 4.00 Call for .3420
+    - Buys 12 PHE V25 3.71 Futures
+
+SELLER: Macq Val (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE V25 3.75 Call for .4355
+    - Buys 100 PHE V25 4.00 Call for .3420
+    - Buys 8 PHE V25 3.71 Futures
+
+
+========================================
+            TRADE 169
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.45p LIVE TRADES .1330 (100x)
+Price: 0.133
+Quantity: 100x
+
+BUYER: Gator (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN N25 3.45 Put for .1330
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.45 Put for .1330
+
+
+========================================
+            TRADE 170
+========================================
+Date: Wednesday June 25th  2025
+Instrument: SDO 3.50p LIVE TRADES .0050 (100x)
+Price: 0.005
+Quantity: 100x
+
+BUYER: DRW Alex (100x)
+  Clearing: CME Cleared (KD)
+  Actions:
+    - Buys 100 SDO 3.50 Put for .0050
+
+SELLER: Engelhart Smit (100x)
+  Clearing: CME Cleared (KD)
+  Actions:
+    - Sells 100 SDO 3.50 Put for .0050
+
+
+========================================
+            TRADE 171
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 4.50c LIVE TRADES .2160 (100x)
+Price: 0.216
+Quantity: 100x
+
+BUYER: Citsec (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE V25 4.50 Call for .2160
+
+SELLER: Tara Kelly (100x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 PHE V25 4.50 Call for  .2160
+
+
+========================================
+            TRADE 172
+========================================
+Date: Wednesday June 25th  2025
+Instrument: E7/LN N25 4.25 Call TRADES .0075 (200x)
+Price: 0.0075
+Quantity: 200x
+
+BUYER: Allan buys (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 E7 N25 4.25 Call for .0225
+    - Sells 200 LN N25 4.25 Call for .0150
+
+SELLER: Sestric sells (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 200 E7 N25 4.25 Call for .0225
+    - Buys 200 LN N25 4.25 Call for .0150
+
+
+========================================
+            TRADE 173
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.00c E7/LN TRADES .0125 (100x)
+Price: 0.0125
+Quantity: 100x
+
+BUYER: Sestric (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 E7 N25 4.00 Call for .0535
+    - Sells 100 LN N25 4.00 Call for .0410
+
+SELLER: DV jacob (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 E7 N25 4.00 Call for .0535
+    - Buys 100 LN N25 4.00 Call for .0410
+
+
+========================================
+            TRADE 174
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.00/4.50 cs LIVE TRADES .0320 (500x)
+Price: 0.032
+Quantity: 500x
+
+BUYER: Gator (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE N25 4.00 Call for .0390
+    - Sells 100 PHE N25 4.50 Call for .0070
+
+BUYER: Optiver (75x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 75 PHE N25 4.00 Call for .0390
+    - Sells 75 PHE N25 4.50 Call for .0070
+
+BUYER: Belv (50x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 50 PHE N25 4.00 Call for .0390
+    - Sells 50 PHE N25 4.50 Call for .0070
+
+SELLER: Tara Kelly (500x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 500 PHE N25 4.00 Call for .0390
+    - Buys 500 PHE N25 4.50 Call for .0070
+
+
+========================================
+            TRADE 175
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.00/4.25/4.50 call fly x3.56 4d TRADES .0150 (250x)
+Price: 0.015
+Quantity: 250x
+
+BUYER: Citsec (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 150 LN N25 4.00 Call for .0420
+    - Sells 300 LN N25 4.25 Call for .0170
+    - Buys 150 LN N25 4.50 Call for .0070
+    - Sells 6 HP N25 3.56 Futures
+
+BUYER: Mill Jerry Wang (75x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 75 LN N25 4.00 Call for .0420
+    - Sells 150 LN N25 4.25 Call for .0170
+    - Buys 75 LN N25 4.50 Call for .0070
+    - Sells 4 HP N25 3.56 Futures
+
+BUYER: Kess (25x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 25 LN N25 4.00 Call for .0420
+    - Sells 50 LN N25 4.25 Call for .0170
+    - Buys 25 LN N25 4.50 Call for .0070
+    - Sells 1 HP N25 3.56 Futures
+
+SELLER: TMG (250x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 250 LN N25 4.00 Call for .0420
+    - Buys 500 LN N25 4.25 Call for .0170
+    - Sells 250 LN N25 4.50 Call for .0070
+    - Buys 11 HP N25 3.56 Futures
+
+
+========================================
+            TRADE 176
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.00/4.25/4.50 call fly x3.56 5d TRADES .0150 (500x)
+Price: 0.015
+Quantity: 500x
+
+BUYER: Gator buys (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 250 LN N25 4.00 Call for .0420
+    - Sells 500 LN N25 4.25 Call for .0170
+    - Buys 250 LN N25 4.50 Call for .0070
+    - Sells 13 HP N25 3.56 Futures
+
+BUYER: Jerry Wang buys (125x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 125 LN N25 4.00 Call for .0420
+    - Sells 250 LN N25 4.25 Call for .0170
+    - Buys 125 LN N25 4.50 Call for .0070
+    - Sells 6 HP N25 3.56 Futures
+
+SELLER: TMG (500x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 500 LN N25 4.00 Call for .0420
+    - Buys 1000 LN N25 4.25 Call for .0170
+    - Sells 500 LN N25 4.50 Call for .0070
+    - Buys 25 HP N25 3.56 Futures
+
+
+========================================
+            TRADE 177
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.50p E7/LN TRADES .0250 (160x)
+Price: 0.025
+Quantity: 160x
+
+BUYER: BNP Alistar (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 160 E7 N25 3.50 Put for .1660
+    - Sells 160 LN N25 3.50 Put for .1410
+
+SELLER: DStroke (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 E7 N25 3.50 Put for .1660
+    - Buys 100 LN N25 3.50 Put for .1410
+
+SELLER: Natixis Rich (60x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 60 E7 N25 3.50 Put for .1660
+    - Buys 60 LN N25 3.50 Put for .1410
+
+
+========================================
+            TRADE 178
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.25p x3.58 20d TRADES .0530 (400x)
+Price: 0.053
+Quantity: 400x
+
+BUYER: Engie Chad (250x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 400 PHE N25 3.25 Put for .0530
+    - Buys 80 PHE N25 3.58 Futures
+
+SELLER: CTC (150x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 150 PHE N25 3.25 Put for .0530
+    - Sells 30 PHE N25 3.58 Futures
+
+SELLER: Citsec (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE N25 3.25 Put for .0530
+    - Sells 20 PHE N25 3.58 Futures
+
+
+========================================
+            TRADE 179
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 3.00p x3.68 17d TRADES .1140 (200x)
+Price: 0.114
+Quantity: 200x
+
+BUYER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN U25 3.00 Put for .1140
+    - Buys 17 HP U25 3.68 Futures
+
+SELLER: Kess (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 200 LN U25 3.00 Put for .1140
+    - Sells 34 HP U25 3.68 Futures
+
+
+========================================
+            TRADE 180
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.25/3.00/2.75 put fly LIVE TRADES .0220 (500x)
+Price: 0.022
+Quantity: 500x
+
+BUYER: DV Jacob (500x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 500 LN N25 3.25 Put for .0480
+    - Sells 1000 LN N25 3.00 Put for .0150
+    - Buys 500 LN N25 2.75 Put for .0040
+
+SELLER: CTC (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 150 LN N25 3.25 Put for .0480
+    - Buys 300 LN N25 3.00 Put for .0150
+    - Sells 150 LN N25 2.75 Put for .0040
+
+SELLER: Valk (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.25 Put for .0480
+    - Buys 200 LN N25 3.00 Put for .0150
+    - Sells 100 LN N25 2.75 Put for .0040
+
+
+========================================
+            TRADE 181
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25/F26 -1.25/-1.00 strangle CSO LIVE TRADES .244 (125x)
+Price: 0.244
+Quantity: 125x
+
+BUYER: Hector (125x)
+  Clearing: CME Cleared (G3)
+  Actions:
+    - Buys 125 NG CSO V25/F26 -1.25 Put for .149
+    - Buys 125 NG CSO V25/F26 -1.00 Call for .095
+
+SELLER: Sestric (125x)
+  Clearing: CME Cleared (G3)
+  Initiated: ICE Chat
+  Actions:
+    - Sells 125 NG CSO V25/F26 -1.25 Put for .149
+    - Sells 125 NG CSO V25/F26 -1.00 Call for .095
+
+
+========================================
+            TRADE 182
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.40/4.20 strangle LIVE TRADES .3150 (50x)
+Price: 0.315
+Quantity: 50x
+
+BUYER: Optiver (25x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 25 LN Q25 3.40 Put for .1610
+    - Buys 25 LN Q25 4.20 Call for .1540
+
+SELLER: Macq Hassan (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN Q25 3.40 Put for .1610
+    - Sells 50 LN Q25 4.20 Call for .1540
+
+
+========================================
+            TRADE 183
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 5.25/7.00 1x2 cs x3.71 6d TRADES .0230 (500x)
+Price: 0.023
+Quantity: 500x
+
+BUYER: BAML Connor (250x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 250 PHE Q25 5.25 Call for .0390
+    - Sells 500 PHE Q25 7.00 Call for .0080
+    - Sells 15 PHE Q25 3.71 Futures
+
+BUYER: Citsec (150x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 150 PHE Q25 5.25 Call for .0390
+    - Sells 300 PHE Q25 7.00 Call for .0080
+    - Sells 9 PHE Q25 3.71 Futures
+
+BUYER: TMG (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100 PHE Q25 5.25 Call for .0390
+    - Sells 200 PHE Q25 7.00 Call for .0080
+    - Sells 6 PHE Q25 3.71 Futures
+
+SELLER: Monty (500x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 500 PHE Q25 5.25 Call for .0390
+    - Buys 1000 PHE Q25 7.00 Call for .0080
+    - Buys 30 PHE Q25 3.71 Futures
+
+
+========================================
+            TRADE 184
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.50/5.00cs LIVE TRADES .0110 (1000x)
+Price: 0.011
+Quantity: 1,000x
+
+BUYER: Mill Shawn (1000x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 1000 LN N25 4.50 Call for .0170
+    - Sells 1000 LN N25 5.00 Call for .0060
+
+SELLER: DRW (700x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 700 LN N25 4.50 Call for .0170
+    - Buys 700LN N25 5.00 Call for .0060
+
+SELLER: Citsec (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 LN N25 4.50 Call for .0170
+    - Buys 250 LN N25 5.00 Call for .0060
+
+SELLER: Maven (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN N25 4.50 Call for .0170
+    - Buys 50 LN N25 5.00 Call for .0060
+
+
+========================================
+            TRADE 185
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.30/2.75 1x2 ps x3.72 12d TRADES .0770 (250x)
+Price: 0.077
+Quantity: 250x
+
+BUYER: Optiver (250x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 250 PHE Q25 3.30 Put for .1310
+    - Sells 500 PHE Q25 2.75 Put for .0270
+    - Buys 30 PHE Q25 3.72 Futures
+
+SELLER: Sickafoose (250x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 250 PHE Q25 3.30 Put for .1310
+    - Buys 500 PHE Q25 2.75 Put for .0270
+    - Sells 30 PHE Q25 3.72 Futures
+
+
+========================================
+            TRADE 186
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25/U25 0p CSO TRADES .035 (50x)
+Price: 0.035
+Quantity: 50x
+
+BUYER: Kess (50x)
+  Clearing: CME Cleared (G4)
+  Initiated: ICE Chat
+  Actions:
+    - Buys 50 NG CSO Q25/U25 0 Put for .035
+
+SELLER: Hector (50x)
+  Clearing: CME Cleared (G4)
+  Actions:
+    - Sells 50 NG CSO Q25/U25 0 Put for .035
+
+
+========================================
+            TRADE 187
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.50/3.00ps x3.72 23d TRADES .1480 (400x)
+Price: 0.148
+Quantity: 400x
+
+BUYER: DRW (400x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 400 PHE Q25 3.50 Put for .2060
+    - Sells 400 PHE Q25 3.00 Put for .0580
+    - Buys 92 PHE Q25 3.72 Futures
+
+SELLER: Shrewsberry (400x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 400 PHE Q25 3.50 Put for .2060
+    - Buys 400 PHE Q25 3.00 Put for .0580
+    - Sells 92 PHE Q25 3.72 Futures
+
+
+========================================
+            TRADE 188
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Z25 2.50p LIVE TRADES .0220 (650x)
+Price: 0.022
+Quantity: 650x
+
+BUYER: Dstroke buys (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN Z25 2.50 Put for .0220
+
+BUYER: Opt buys (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 150 LN Z25 2.50 Put for .0220
+
+BUYER: CTC buys (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN Z25 2.50 Put for .0220
+
+SELLER: Kess (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 400 LN Z25 2.50 Put for .0220
+
+SELLER: Sig (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 LN Z25 2.50 Put for .0220
+
+
+========================================
+            TRADE 189
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Z25 2.50p LIVE TRADES .0250 (100x)
+Price: 0.025
+Quantity: 100x
+
+BUYER: DStroke (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN Z25 2.50 Put for .0250
+
+SELLER: TJM Kess (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 LN Z25 2.50 Put for .0250
+
+
+========================================
+            TRADE 190
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Z25 2.50p vs. F26 2.50p LIVE TRADES .0025 (500x)
+Price: 0.0025
+Quantity: 500x
+
+BUYER: Monty (500x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 500 PHE F26 2.50 Put for .0275
+    - Sells 500 PHE Z25 2.50 Put for .0250
+
+SELLER: Copperwood Mert (500x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 500 PHE F26 2.50 Put for .0275
+    - Buys 500 PHE Z25 2.50 Put for .0250
+
+
+========================================
+            TRADE 191
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Z25 2.50p LIVE TRADES .0240 (100x)
+Price: 0.024
+Quantity: 100x
+
+BUYER: 5 Rings (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN Z25 2.50 Put for .0240
+
+SELLER: TJM Kess (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 LN Z25 2.50 Put for .0240
+
+
+========================================
+            TRADE 192
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25/U25 0 Put NG CSO TRADES .03 (50x)
+Price: 0.03
+Quantity: 50x
+
+BUYER: TJM Kess (50x)
+  Clearing: CME Cleared (G4)
+  Initiated: ICE Chat
+  Actions:
+    - Buys 50 NG CSO Q25/U25 0 Put for .030
+
+SELLER: Skylar Brenden (50x)
+  Clearing: CME Cleared (G4)
+  Actions:
+    - Sells 50 NG CSO Q25/U25 0 Put for .030
+
+
+========================================
+            TRADE 193
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.35/4.65 strangle LIVE TRADES .2420 (35x)
+Price: 0.242
+Quantity: 35x
+
+BUYER: Optiver (35x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 35 LN Q25 3.35 Put for .1220
+    - Buys 35 LN Q25 4.65 Call for .1200
+
+SELLER: Hassan Rami (35x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 35 LN Q25 3.35 Put for .1220
+    - Sells 35 LN Q25 4.65 Call for .1200
+
+
+========================================
+            TRADE 194
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.60/3.40 PS LIVE TRADES .0590 (500x)
+Price: 0.059
+Quantity: 500x
+
+BUYER: Pan eugene (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 500 LN N25 3.60 Put for .1180
+    - Sells 500 LN N25 3.40 Put for .0590
+
+SELLER: Citsec (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 LN N25 3.60 Put for .1180
+    - Buys 200 LN N25 3.40 Put for .0590
+
+SELLER: Gator (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.60 Put for .1180
+    - Buys 100 LN N25 3.40 Put for .0590
+
+
+========================================
+            TRADE 195
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 3.00/2.50ps vs 6.50c x3.84 15d TRADES .0380 (100x)
+Price: 0.038
+Quantity: 100x
+
+BUYER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN U25 3.00 Put for .1010
+    - Sells 100 LN U25 2.50 Put for .0320
+    - Sells 100 LN U25 6.50 Call for .0310
+    - Buys 15 HP U25 3.84 Futures
+
+SELLER: Kess (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 LN U25 3.00 Put for .1010
+    - Buys 100 LN U25 2.50 Put for .0320
+    - Buys 100 LN U25 6.50 Call for .0310
+    - Sells 15 HP U25 3.84 Futures
+
+
+========================================
+            TRADE 196
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 4.00 Call x3.85 47d TRADES .2790 (300x)
+Price: 0.279
+Quantity: 300x
+
+BUYER: MS Tim (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 250 LN Q25 4.00 Call for .2790
+    - Sells 118  HP Q25 3.85 Futures
+
+BUYER: Maven (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN Q25 4.00 Call for .2790
+    - Sells 23  HP Q25 3.85 Futures
+
+SELLER: Citi Ken lee (300x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 300 LN Q25 4.00 Call for .2790
+    - Buys 141 HP Q25 3.85 Futures
+
+
+========================================
+            TRADE 197
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.00/4.50 CS x3.71 21d TRADES .0720 (500x)
+Price: 0.072
+Quantity: 500x
+
+BUYER: Ata (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 500 LN N25 4.00 Call for .0990
+    - Sells 500 LN N25 4.50 Call for .0270
+    - Sells 105 HP N25 3.71 Futures
+
+SELLER: DRW (300x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 300 LN N25 4.00 Call for .0990
+    - Buys 300 LN N25 4.50 Call for .0270
+    - Buys 63 HP N25 3.71 Futures
+
+SELLER: TMG (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 4.00 Call for .0990
+    - Buys 100 LN N25 4.50 Call for .0270
+    - Buys 21 HP N25 3.71 Futures
+
+
+========================================
+            TRADE 198
+========================================
+Date: Wednesday June 25th  2025
+Instrument: FH26 6.00c x4.71 40d TRADES .5175 (115/mo=345x)
+Price: 0.5175
+Quantity: Not specified
+
+BUYER:  (0x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 115/mo PHE 1Q26 6.00 Call for .5175
+    - Sells 46/mo PHE 1Q26 4.71 Futures
+
+SELLER: DRW Mugica (115x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 115/mo PHE 1Q26 6.00 Call for .5175
+    - Buys 46/mo PHE 1Q26 4.71 Futures
+
+
+========================================
+            TRADE 199
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Z26 TRADES 4.866 (300x)
+Price: 4.866
+Quantity: 300x
+
+BUYER: EDF Andre Hasou (300x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 300 NG LD1 Z26 Futures for 4.866
+
+SELLER: JPM Ishan (300x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 300 NG LD1 Z26 Futures for 4.866
+
+
+========================================
+            TRADE 200
+========================================
+Date: Wednesday June 25th  2025
+Instrument: H26 8.00/10.00cs x4.32 6d TRADES .0890 (700x)
+Price: 0.089
+Quantity: 700x
+
+BUYER: CTC (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN H26 8.00 Call for .2450
+    - Sells 200 LN H26 10.00 Call for .1560
+    - Sells 12 HP H26 4.32 Futures
+
+BUYER: Baml Connor (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 300 PHE H26 8.00 Call for .2450
+    - Sells 300 PHE H26 10.00 Call for .1560
+    - Sells 18 PHE H26 4.32 Futures
+    - Buys 200 LN H26 8.00 Call for .2450
+    - Sells 200 LN H26 10.00 Call for .1560
+    - Sells 12 HP H26 4.32 Futures
+
+SELLER: Kess (400x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 400 LN H26 8.00 Call for .2450
+    - Buys 400 LN H26 10.00 Call for .1560
+    - Buys 24 HP H26 4.32 Futures
+
+SELLER: Maq Sickafoose (200x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 200 PHE H26 8.00 Call for .2450
+    - Buys 200 PHE H26 10.00 Call for .1560
+    - Buys 12 PHE H26 4.32 Futures
+
+SELLER: Maq Val (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE H26 8.00 Call for .2450
+    - Buys 100 PHE H26 10.00 Call for .1560
+    - Buys 6 PHE H26 4.32 Futures
+
+
+========================================
+            TRADE 201
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25/F26 -1.00/-0.75/-0.50 call fly CSO TRADES .036 (400x)
+Price: 0.036
+Quantity: 400x
+
+BUYER: Sestric (400x)
+  Clearing: CME Cleared (G3)
+  Initiated: ICE Chat
+  Actions:
+    - Buys 400 NG CSO V25/F26 -1.00 Call for .0990
+    - Sells 800 NG CSO V25/F26 -.75 Call for .0370
+    - Buys 400 NG CSO V25/F26 -.50 Call for .0110
+
+SELLER: Skylar Brendan (400x)
+  Clearing: CME Cleared (G3)
+  Actions:
+    - Sells 400 NG CSO V25/F26 -1.00 Call for .0990
+    - Buys 800 NG CSO V25/F26 -.75 Call for .0370
+    - Sells 400 NG CSO V25/F26 -.50 Call for .0110
+
+
+========================================
+            TRADE 202
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 4.55c x3.75 24d TRADES .1100 (50x)
+Price: 0.11
+Quantity: 50x
+
+BUYER: Citsec (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN Q25 4.55 Call for .1100
+    - Sells 12 HP Q25 3.75 Futures
+
+SELLER: Hassan (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN Q25 4.55 Call for .1100
+    - Buys 12 HP Q25 3.75 Futures
+
+
+========================================
+            TRADE 203
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.50/3.95 strangle LIVE TRADES .2230 (40x)
+Price: 0.223
+Quantity: 40x
+
+BUYER: Opt buys (40x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 40 LN N25 3.50 Put for .1120
+    - Buys 40 LN N25 3.95 Call for .1110
+
+SELLER: Hassan (40x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 40 LN N25 3.50 Put for .1120
+    - Sells 40 LN N25 3.95 Call for .1110
+
+
+========================================
+            TRADE 204
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 5.50c x3.79 12d TRADES .0720 (300x)
+Price: 0.072
+Quantity: 300x
+
+BUYER: CTC (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN U25 5.50 Call for .0720
+    - Sells 24 HP U25 3.79 Futures
+
+BUYER: Csec buys (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN U25 5.50 Call for .0720
+    - Sells 12 HP U25 3.79 Futures
+
+SELLER: Kess (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 300 LN U25 5.50 Call for .0720
+    - Buys 36 HP U25 3.79 Futures
+
+
+========================================
+            TRADE 205
+========================================
+Date: Wednesday June 25th  2025
+Instrument: XZ26 3.00/2.50/2.00 put fly LIVE TRADES .0410 (220/mo=440x)
+Price: 0.041
+Quantity: Not specified
+
+BUYER: E360 Shrews (220x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 220/mo PHE XZ26 3.00 Put for .1550
+    - Sells 440/mo PHE XZ26 2.50 Put for .0700
+    - Buys 220/mo PHE XZ26 2.00 Put for .0260
+
+SELLER: 5R sells (220x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 220/mo PHE XZ26 3.00 Put for .1550
+    - Buys 440/mo PHE XZ26 2.50 Put for .0700
+    - Sells 220/mo PHE XZ26 2.00 Put for .0260
+
+
+========================================
+            TRADE 206
+========================================
+Date: Wednesday June 25th  2025
+Instrument: JV26 7.00/9.00 1x2 cs LIVE TRADES .0170 (125x)
+Price: 0.017
+Quantity: 125x
+
+BUYER:  (0x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 100/mo PHE JV26 7.00 Call for .1610
+    - Sells 200/mo PHE JV26 9.00 Call for .0720
+
+BUYER:  (0x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 25mo PHE JV26 7.00 Call for .1610
+    - Sells 50/mo PHE JV26 9.00 Call for .0720
+
+SELLER:  (0x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100/mo PHE JV26 7.00 Call for .1610
+    - Buys 200/mo PHE JV26 9.00 Call for .0720
+
+SELLER:  (0x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 25/mo PHE JV26 7.00 Call for .1610
+    - Buys 50/mo PHE JV26 9.00 Call for .0720
+
+
+========================================
+            TRADE 207
+========================================
+Date: Wednesday June 25th  2025
+Instrument: M26 7.00 Call x4.13 vs N26 7.00 Call x4.30 15d/17d TRADES .0340 (500x)
+Price: 0.034
+Quantity: 500x
+
+BUYER:  (0x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 200 PHE N26 7.00 Call for .1630
+    - Sells 34 PHE N26 4.30 Futures
+    - Sells 200 PHE M26 7.00 Call for .1290
+    - Buys 30 PHE M26 4.13 Futures
+
+BUYER: +50 Optiver 1257, (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 150 PHE N26 7.00 Call for .1630
+    - Sells 25.5 PHE N26 4.30 Futures
+    - Sells 150 PHE M26 7.00 Call for .1290
+    - Buys 22.5 PHE M26 4.13 Futures
+
+SELLER: Steeg (150x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 200 PHE N26 7.00 Call for .1630
+    - Buys 34  PHE N26 4.30 Futures
+    - Buys 200 PHE M26 7.00 Call for .1290
+    - Sells 30 PHE M26 4.13 Futures
+
+SELLER: CTC (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 200 PHE N26 7.00 Call for .1630
+    - Buys 34 PHE N26 4.30 Futures
+    - Buys 200 PHE M26 7.00 Call for .1290
+    - Sells 30 PHE M26 4.13 Futures
+
+SELLER: Mitsui Troy (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE N26 7.00 Call for .1630
+    - Buys 17 PHE N26 4.30 Futures
+    - Buys 100 PHE M26 7.00 Call for .1290
+    - Sells 15 PHE M26 4.13 Futures
+
+
+========================================
+            TRADE 208
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25/N26 TRADES .5740 (500x)
+Price: 0.574
+Quantity: 500x
+
+BUYER: JPM Ishan (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 500 NG N26 Futures for 4.308
+    - Sells 500 NG N25 Futures for 3.734
+
+SELLER: RBC JS (500x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 500 NG N26 Futures for 4.308
+    - Buys 500 NG N25 Futures for 3.734
+
+
+========================================
+            TRADE 209
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25/V25 -.10c CSO TRADES .015 (300x)
+Price: 0.015
+Quantity: 300x
+
+BUYER: Sestric (300x)
+  Clearing: CME Cleared (G3)
+  Initiated: ICE Chat
+  Actions:
+    - Buys 300 NG CSO N25/V25 -.10 Call for .015
+
+SELLER: Hector (300x)
+  Clearing: CME Cleared (G3)
+  Actions:
+    - Sells 300 NG CSO N25/V25 -.10 Call for .015
+
+
+========================================
+            TRADE 210
+========================================
+Date: Wednesday June 25th  2025
+Instrument: SDO 3.75c LIVE TRADES .0100 (50x)
+Price: 0.01
+Quantity: 50x
+
+BUYER: Smit (50x)
+  Clearing: CME Cleared (KD)
+  Actions:
+    - Buys 50 SDO 3.75 Call for .0100
+
+SELLER: Sig (50x)
+  Clearing: CME Cleared (KD)
+  Actions:
+    - Sells 50 SDO 3.75 Call for .0100
+
+
+========================================
+            TRADE 211
+========================================
+Date: Wednesday June 25th  2025
+Instrument: X25 2.50/2.00ps vs. Z25 2.50p LIVE TRADES .0070 (300x)
+Price: 0.007
+Quantity: 300x
+
+BUYER: Kess buys (300x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 300 LN X25 2.50 Put for .0510
+    - Sells 300 LN X25 2.00 Put for .0190
+    - Sells 300 LN Z25 2.50 Put for .0250
+
+SELLER: CTC (300x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 300 LN X25 2.50 Put for .0510
+    - Buys 300 LN X25 2.00 Put for .0190
+    - Buys 300 LN Z25 2.50 Put for .0250
+
+
+========================================
+            TRADE 212
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 5.50/6.50/7.50 call fly LIVE TRADES .0275 (300x)
+Price: 0.0275
+Quantity: 300x
+
+BUYER: Kess (400x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 300 LN U25 5.50 Call for .0755
+    - Sells 600 LN U25 6.50 Call for .0310
+    - Buys 300 LN U25 7.50 Call for .0140
+
+SELLER: TMG sells (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 LN U25 5.50 Call for .0755
+    - Buys 400 LN U25 6.50 Call for .0310
+    - Sells 200 LN U25 7.50 Call for .0140
+
+SELLER: CTC sells (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN U25 5.50 Call for .0755
+    - Buys 200 LN U25 6.50 Call for .0310
+    - Sells 100 LN U25 7.50 Call for .0140
+
+
+========================================
+            TRADE 213
+========================================
+Date: Wednesday June 25th  2025
+Instrument: SDO 3.75c LIVE TRADES .0200 (50x)
+Price: 0.02
+Quantity: 50x
+
+BUYER: Smit (50x)
+  Clearing: CME Cleared (KD)
+  Initiated: ICE Chat
+  Actions:
+    - Buys 50 SDO 3.75 Call for .0200
+
+SELLER: Optiver (50x)
+  Clearing: CME Cleared (KD)
+  Actions:
+    - Sells 50 SDO 3.75 Call for .0200
+
+
+========================================
+            TRADE 214
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.90/4.10/4.20 call fly LIVE TRADES .0310 (200x)
+Price: 0.031
+Quantity: 200x
+
+BUYER: Jerry Wang (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 200 LN N25 3.90 Call for .1130
+    - Sells 400 LN N25 4.10 Call for .0670
+    - Buys 200 LN N25 4.20 Call for .0520
+
+SELLER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.90 Call for .1130
+    - Buys 200 LN N25 4.10 Call for .0670
+    - Sells 100 LN N25 4.20 Call for .0520
+
+
+========================================
+            TRADE 215
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.25 Call LIVE TRADES .0570 (200x)
+Price: 0.057
+Quantity: 200x
+
+BUYER: RWE Glenn (200x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 200 PHE N25 4.25 Call for .0570
+
+SELLER: Optiver (200x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 200 PHE N25 4.25 Call for .0570
+
+
+========================================
+            TRADE 216
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.75/3.50/3.25 put fly LIVE TRADES .0490 (500x)
+Price: 0.049
+Quantity: 500x
+
+BUYER: Mill Stover (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 500 LN N25 3.75 Put for .2210
+    - Sells 1000 LN N25 3.50 Put for .1080
+    - Buys 500 LN N25 3.25 Put for .0440
+
+SELLER: opty sell (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 LN N25 3.75 Put for .2210
+    - Buys 400 LN N25 3.50 Put for .1080
+    - Sells 200 LN N25 3.25 Put for .0440
+
+SELLER: cs (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 150 LN N25 3.75 Put for .2210
+    - Buys 300 LN N25 3.50 Put for .1080
+    - Sells 150 LN N25 3.25 Put for .0440
+
+SELLER: Walley Nikhil (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.75 Put for .2210
+    - Buys 200 LN N25 3.50 Put for .1080
+    - Sells 100 LN N25 3.25 Put for .0440
+
+SELLER: Equanimity Dylan (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN N25 3.75 Put for .2210
+    - Buys 100 LN N25 3.50 Put for .1080
+    - Sells 20 LN N25 3.25 Put for .0440
+
+
+========================================
+            TRADE 217
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.40/3.15 1x2 ps LIVE TRADES .0170 (500x)
+Price: 0.017
+Quantity: 500x
+
+BUYER: DV Jacob buys (500x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 500 LN N25 3.40 Put for .0770
+    - Sells 1000 LN N25 3.15 Put for .0300
+
+SELLER: Opt sells (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 500 LN N25 3.40 Put for .0770
+    - Buys 1000 LN N25 3.15 Put for .0300
+
+
+========================================
+            TRADE 218
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 5.00/5.50cs LIVE TRADES .0680 (2000x)
+Price: 0.068
+Quantity: 2,000x
+
+BUYER: DRW (1000x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 1000 PHE V25 5.00 Call for .2020
+    - Sells 1000 PHE V25 5.50 Call for .1340
+
+BUYER: Optiver (400x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 400 PHE V25 5.00 Call for .2020
+    - Sells 400 PHE V25 5.50 Call for .1340
+
+BUYER: Citsec (200x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 200 PHE V25 5.00 Call for .2020
+    - Sells 200 PHE V25 5.50 Call for .1340
+
+SELLER: DE Shaw Jackson (2000x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 2000 PHE V25 5.00 Call for .2020
+    - Buys 2000 PHE V25 5.50 Call for .1340
+
+
+========================================
+            TRADE 219
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 3.75p x3.78 vs. V25 3.25p x3.87 42/22d TRADES .1870 (50x)
+Price: 0.187
+Quantity: 50x
+
+BUYER: Csec buys (50x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 50 PHE U25 3.75 Put for .3980
+    - Buys 21 PHE U25 3.78 Futures
+    - Sells 50 PHE V25 3.25 Put for .2110
+    - Sells 11 PHE V25 3.87 Futures
+
+SELLER: Foose sells (50x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 50 PHE U25 3.75 Put for .3980
+    - Sells 21 PHE U25 3.78 Futures
+    - Buys 50 PHE V25 3.25 Put for .2110
+    - Buys 11 PHE V25 3.87 Futures
+
+
+========================================
+            TRADE 220
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.75c vs. Q25 4.00c LIVE TRADES .0620 (200x)
+Price: 0.062
+Quantity: 200x
+
+BUYER: Mill Xander (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN Q25 4.00 Call for .2640
+    - Sells 200 LN N25 3.75 Call for .2020
+
+SELLER: Citsec (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 LN Q25 4.00 Call for .2640
+    - Buys 200 LN N25 3.75 Call for .2020
+
+
+========================================
+            TRADE 221
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.25/4.75 CS (NYM/ICE) TRADES FLAT 200x
+Price: Not specified
+Quantity: Not specified
+
+
+========================================
+            TRADE 222
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 4.00/4.55/5.00 1x3x2 call fly LIVE TRADES .0250 (200x)
+Price: 0.025
+Quantity: 200x
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN Q25 4.00 Call for .2620
+    - Sells 600 LN Q25 4.55 Call for .1270
+    - Buys 400 LN Q25 5.00 Call for .0720
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN Q25 4.00 Call for .2620
+    - Buys 300 LN Q25 4.55 Call for .1270
+    - Sells 200 LN Q25 5.00 Call for .0720
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN Q25 4.00 Call for .2620
+    - Buys 300 LN Q25 4.55 Call for .1270
+    - Sells 200 LN Q25 5.00 Call for .0720
+
+
+========================================
+            TRADE 223
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.25/4.75 cs LIVE TRADES .0430 (1000x)
+Price: 0.043
+Quantity: 1,000x
+
+BUYER: Tara Kelly (1000x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 1000 PHE N25  4.25 Call for .0620
+    - Sells 1000 PHE N25 4.75 Call for .0190
+
+BUYER: TMG Switch (200x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 200 LN N25  4.25 Call for .0620
+    - Sells 200 LN N25 4.75 Call for .0190
+    - Sells 200 PHE N25  4.25 Call for .0620
+    - Buys 200 PHE N25 4.75 Call for .0190
+
+SELLER: SIG, keystone, akuna, five rings, CS sell (200x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 200 PHE N25  4.25 Call for .0620
+    - Buys 200 PHE N25 4.75 Call for .0190
+
+
+========================================
+            TRADE 224
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.75c x3.72 50d TRADES .2020 (500x)
+Price: 0.202
+Quantity: 500x
+
+BUYER: GS Jennani (500x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 500 LN N25 3.75 Call for .2020
+    - Sells 250 HP N25 3.72 Futures
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 150 LN N25 3.75 Call for .2020
+    - Buys 75 HP N25 3.72 Futures
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.75 Call for .2020
+    - Buys 50 HP N25 3.72 Futures
+
+
+========================================
+            TRADE 225
+========================================
+Date: Wednesday June 25th  2025
+Instrument: QV25 3.00p E7/LN TRADES .0130 (100/mo=300x)
+Price: 0.013
+Quantity: Not specified
+
+BUYER: RBC JS buys (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100/mo E7 QV25 3.00 Put for .1210
+    - Sells 100/mo LN QV25 3.00 Put for .1080
+
+SELLER: Engelhart Smit sells (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100/mo E7 QV25 3.00 Put for .1210
+    - Buys 100/mo LN QV25 3.00 Put for .1080
+
+
+========================================
+            TRADE 226
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.4/4.35 strangle LIVE TRADES .3260 (40x)
+Price: 0.326
+Quantity: 40x
+
+BUYER: Optiver buys (40x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 40 LN Q25 3.40 Put for .1630
+    - Buys 40 LN Q25 4.35 Call for .1630
+
+SELLER: Macq Index sells (40x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 40 LN Q25 3.40 Put for .1630
+    - Sells 40 LN Q25 4.35 Call for .1630
+
+
+========================================
+            TRADE 227
+========================================
+Date: Wednesday June 25th  2025
+Instrument: U25 3.00p x3.75 16d TRADES .1200 (175x)
+Price: 0.12
+Quantity: 175x
+
+BUYER: BofA Connor (175x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 175 PHE U25 3.00 Put for .1200
+    - Buys 28 PHE U25 3.75 Futures
+
+SELLER: Sickafoose (175x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 175 PHE U25 3.00 Put for .1200
+    - Sells 28 PHE U25 3.75 Futures
+
+
+========================================
+            TRADE 228
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.90/4.20 cs LIVE TRADES .0680 (500x)
+Price: 0.068
+Quantity: 500x
+
+BUYER: Tara Kelly (500x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 500 PHE N25 3.90 Call for .1320
+    - Sells 500 PHE N25 4.20 Call for .0640
+
+SELLER:  (0x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 250 PHE N25 3.90 Call for .1320
+    - Buys 250 PHE N25 4.20 Call for .0640
+
+SELLER: CS sell (150x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 150 PHE N25 3.90 Call for .1320
+    - Buys 150 PHE N25 4.20 Call for .0640
+
+SELLER: TMG (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE N25 3.90 Call for .1320
+    - Buys 100 PHE N25 4.20 Call for .0640
+
+
+========================================
+            TRADE 229
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25/U25 0p CSO TRADES .032 (100x)
+Price: 0.032
+Quantity: 100x
+
+BUYER: Hector buys (100x)
+  Clearing: CME Cleared (G4)
+  Actions:
+    - Buys 100 NG CSO Q25/U25 0 Put for .032
+
+SELLER: Kess sells (100x)
+  Clearing: CME Cleared (G4)
+  Initiated: ICE Chat
+  Actions:
+    - Sells 100 NG CSO Q25/U25 0 Put for .032
+
+
+========================================
+            TRADE 230
+========================================
+Date: Wednesday June 25th  2025
+Instrument: F26 5.00p x5.02 44d TRADES .8140 (150x)
+Price: 0.814
+Quantity: 150x
+
+BUYER: Opt buys (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN F26 5.00 Put for .8140
+    - Buys 44 HP F26 5.02 Futures
+
+BUYER: Maven buys (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50 LN F26 5.00 Put for .8140
+    - Buys 22 HP F26 5.02 Futures
+
+SELLER: Maq Val (75x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 75 LN F26 5.00 Put for .8140
+    - Sells 33 HP F26 5.02 Futures
+
+
+========================================
+            TRADE 231
+========================================
+Date: Wednesday June 25th  2025
+Instrument: F26/V26 TRADES .703 (250x)
+Price: 0.703
+Quantity: 250x
+
+BUYER: RBC Cat buys (250x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 250 NG F26 Futures for 5.000
+    - Sells 250 NG V26 Futures for 4.297
+
+SELLER: JPM Ishan sells (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 NG F26 Futures for 5.000
+    - Buys 250 NG V26 Futures for 4.297
+
+
+========================================
+            TRADE 232
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.50/4.75 1x2 cs LIVE TRADES .0050 (100x)
+Price: 0.005
+Quantity: 100x
+
+BUYER: TMG (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 200 PHE N25 4.75 Call for .0190
+    - Sells 100 PHE N25 4.50 Call for .0330
+
+SELLER: Sickafoose (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 200 PHE N25 4.75 Call for .0190
+    - Buys 100 PHE N25 4.50 Call for .0330
+
+
+========================================
+            TRADE 233
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 5.00/5.50 1x1.5 cs LIVE TRADES .0010 (500x)
+Price: 0.001
+Quantity: 500x
+
+BUYER: CTC (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN V25 5.00 Call for .1900
+    - Sells 300 LN V25 5.50 Call for .1260
+
+BUYER: DRW (300x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 300 LN V25 5.00 Call for .1900
+    - Sells 450 LN V25 5.50 Call for .1260
+
+SELLER: Shaz (500x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 500 LN V25 5.00 Call for .1900
+    - Buys 750 LN V25 5.50 Call for .1260
+
+
+========================================
+            TRADE 234
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.25/4.50 cs LIVE TRADES .0270 (500x)
+Price: 0.027
+Quantity: 500x
+
+BUYER: Opt buys (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 500 LN N25 4.25 Call for .0630
+    - Sells 500 LN N25 4.50 Call for .0360
+
+SELLER: DV Jacob sells (500x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 500 LN N25 4.25 Call for .0630
+    - Buys 500 LN N25 4.50 Call for .0360
+
+
+========================================
+            TRADE 235
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.25/3.10 ps LIVE TRADES .0250 (1000x)
+Price: 0.025
+Quantity: 1,000x
+
+BUYER: DV Jacob (1000x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 1000 LN N25 3.25 Put for .0590
+    - Sells 1000 LN N25 3.10 Put for .0340
+
+SELLER: Gator sells (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 500 LN N25 3.25 Put for .0590
+    - Buys 500 LN N25 3.10 Put for .0340
+
+
+========================================
+            TRADE 236
+========================================
+Date: Wednesday June 25th  2025
+Instrument: X25 4.50/5.50 cs x4.18 21d TRADES .2340 (100x)
+Price: 0.234
+Quantity: 100x
+
+BUYER: Sickafoose (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN X25 4.50 Call for .4600
+    - Sells 100 LN X25 5.50 Call for .2260
+    - Sells 21 HP X25 4.18 Futures
+
+SELLER: Maven (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN X25 4.50 Call for .4600
+    - Buys 100 LN X25 5.50 Call for .2260
+    - Buys 21 HP X25 4.18 Futures
+
+
+========================================
+            TRADE 237
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Cal27 Nym/Ice TRADES .0005 (.5/d=182.5x)
+Price: 0.0005
+Quantity: Not specified
+
+BUYER:  (0x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys .5/d NN Cal27 Futures for 3.985
+    - Sells .25/d H Cal27 Futures for 3.986
+    - Sells .25/d H Cal27 Futures for 3.985
+
+SELLER:  (0x)
+  Clearing: ICE Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells .5/d NN Cal27 Futures for 3.985
+    - Buys .25/d H Cal27 Futures for 3.986
+    - Buys .25/d H Cal27 Futures for 3.985
+
+
+========================================
+            TRADE 238
+========================================
+Date: Wednesday June 25th  2025
+Instrument: FH27 4.00/5.75 fence x4.54 68d TRADES .0250 (50/mo=150x)
+Price: 0.025
+Quantity: Not specified
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50/mo LN 1Q27 5.75 Call for .6750
+    - Sells 50/mo LN 1Q27 4.00 Put for .6500
+    - Sells 34/mo HP 1Q27 4.54 Futures
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 50/mo LN 1Q27 5.75 Call for .6750
+    - Buys 50/mo LN 1Q27 4.00 Put for .6500
+    - Buys 34/mo HP 1Q27 4.54 Futures
+
+
+========================================
+            TRADE 239
+========================================
+Date: Wednesday June 25th  2025
+Instrument: JV26 5.00 Call x4.14 38d TRADES .4260 (50/mo= 350x)
+Price: 0.426
+Quantity: Not specified
+
+BUYER:  (0x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 25/mo LN JV26 5.00 Call for .4260
+    - Sells 10/mo HP JV26 4.14 Futures
+
+SELLER:  (0x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 25/mo LN JV26 5.00 Call for .4260
+    - Buys 10/mo HP JV26 4.14 Futures
+
+
+========================================
+            TRADE 240
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.50/4.60cs LIVE TRADES .0085 (1500x)
+Price: 0.0085
+Quantity: 1,500x
+
+BUYER: Kess (1000x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 1500 LN N25 4.50 Call for .0415
+    - Sells 1500 LN N25 4.60 Call for .0330
+
+SELLER: Conor Baml (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 750 LN N25 4.50 Call for .0415
+    - Buys 750 LN N25 4.60 Call for .0330
+
+SELLER: Citsec (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 LN N25 4.50 Call for .0415
+    - Buys 250 LN N25 4.60 Call for .0330
+
+
+========================================
+            TRADE 241
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.65/4.10 strangle LIVE TRADES .5110 (40x)
+Price: 0.511
+Quantity: 40x
+
+BUYER: Csec buys (40x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 40 LN Q25 3.65 Put for .2730
+    - Buys 40 LN Q25 4.10 Call for .2380
+
+SELLER: Macq Index sells (40x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 40 LN Q25 3.65 Put for .2730
+    - Sells 40 LN Q25 4.10 Call for .2380
+
+
+========================================
+            TRADE 242
+========================================
+Date: Wednesday June 25th  2025
+Instrument: H26 8.00/10.00cs x4.27 6d TRADES .0880 (700x) initiated ICE Chat KESS
+Price: 0.088
+Quantity: 700x
+
+BUYER: CTC (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 250 LN H26 8.00 Call for .2430
+    - Sells 250 LN H26 10.00 Call for .1550
+    - Sells 15 HP H26 4.27 Futures
+
+BUYER: Walleye (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN H26 8.00 Call for .2430
+    - Sells 200 LN H26 10.00 Call for .1550
+    - Sells 12 HP H26 4.27 Futures
+
+BUYER: Vitol Mike Jones (100x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 100 LN G26 7.00 Call for .4300
+    - Sells 32 HP G26 4.70 Futures
+
+SELLER: Monty (700x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 700 LN H26 8.00 Call for .2430
+    - Buys 700 LN H26 10.00 Call for .1550
+    - Buys 42 HP H26 4.27 Futures
+
+SELLER: Optiver (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 50 LN G26 7.00 Call for .4300
+    - Buys 16 HP G26 4.70 Futures
+
+
+========================================
+            TRADE 243
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.25/3.00 1x1.5 ps LIVE TRADES .0220 (500x)
+Price: 0.022
+Quantity: 500x
+
+BUYER: DV Jacob (500x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 500 LN N25 3.25 Put for .0520
+    - Sells 750 LN N25 3.00 Put for .0200
+
+SELLER: CTC (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 LN N25 3.25 Put for .0520
+    - Buys 300 LN N25 3.00 Put for .0200
+
+SELLER: Citsec (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.25 Put for .0520
+    - Buys 150 LN N25 3.00 Put for .0200
+
+
+========================================
+            TRADE 244
+========================================
+Date: Wednesday June 25th  2025
+Instrument: F26 4.00/3.50ps x4.98 10d TRADES .1570 (450x)
+Price: 0.157
+Quantity: 450x
+
+BUYER: Maven buys (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 200 LN F26 4.00 Put for .3270
+    - Sells 200 LN F26 3.50 Put for .1700
+    - Buys 20 HP F26 4.98 Futures
+
+BUYER: 5R buys (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 150 LN F26 4.00 Put for .3270
+    - Sells 150 LN F26 3.50 Put for .1700
+    - Buys 15 HP F26 4.98 Futures
+
+BUYER: Monty (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN F26 4.00 Put for .3270
+    - Sells 100 LN F26 3.50 Put for .1700
+    - Buys 10 HP F26 4.98 Futures
+
+SELLER: Kess (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 200 LN F26 4.00 Put for .3270
+    - Buys 200 LN F26 3.50 Put for .1700
+    - Sells 20 HP F26 4.98 Futures
+
+SELLER: Walleye (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 250 LN F26 4.00 Put for .3270
+    - Buys 250 LN F26 3.50 Put for .1700
+    - Sells 25 HP F26 4.98 Futures
+
+
+========================================
+            TRADE 245
+========================================
+Date: Wednesday June 25th  2025
+Instrument: V25 2.00p vs. X25 2.00p LIVE TRADES .0010 (400x)
+Price: 0.001
+Quantity: 400x
+
+BUYER: Kess (400x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 500 LN V25 2.00 Put for .0210
+    - Sells 500 LN X25 2.00 Put for .0200
+
+SELLER: Citsec (400x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 400 LN V25 2.00 Put for .0210
+    - Buys 400 LN X25 2.00 Put for .0200
+
+SELLER: Belv (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN V25 2.00 Put for .0210
+    - Buys 100 LN X25 2.00 Put for .0200
+
+
+========================================
+            TRADE 246
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.50 Call LIVE TRADES .0350 (250x)
+Price: 0.035
+Quantity: 250x
+
+BUYER: Smit (250x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 250 LN N25 4.50 Call for  .0350
+
+SELLER: Citsec (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 150 LN N25 4.50 Call for .0350
+
+SELLER: Sig (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 4.50 Call for .0350
+
+
+========================================
+            TRADE 247
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.50 Call LIVE TRADES .0360 (500x)
+Price: 0.036
+Quantity: 500x
+
+BUYER: RWE Glenn (500x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 500 PHE N25 4.50 Call for  .0360
+
+SELLER: Sig (500x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 500 PHE N25 4.50 Call for .0360
+
+
+========================================
+            TRADE 248
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.10/3.00ps LIVE TRADES .0120 (500x)
+Price: 0.012
+Quantity: 500x
+
+BUYER: DV Jacob buys (500x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 500 LN N25 3.10 Put for .0350
+    - Sells 500 LN N25 3.00 Put for .0230
+
+SELLER: Gator sells (500x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 500 LN N25 3.10 Put for .0350
+    - Buys 500 LN N25 3.00 Put for .0230
+
+
+========================================
+            TRADE 249
+========================================
+Date: Wednesday June 25th  2025
+Instrument: F26 4.75/4.00/3.25 put fly x4.99 2d TRADES .1500 (550x)
+Price: 0.15
+Quantity: 550x
+
+BUYER: Opt buys (400x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 400 LN F26 4.75 Put for .6940
+    - Sells 800 LN F26 4.00 Put for .3300
+    - Buys 400 LN F26 3.25 Put for .1160
+    - Buys 8 HP F26 4.99 Futures
+
+BUYER: Maven buys (150x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 150 LN F26 4.75 Put for .6940
+    - Sells 300 LN F26 4.00 Put for .3300
+    - Buys 150 LN F26 3.25 Put for .1160
+    - Buys 3 HP F26 4.99 Futures
+
+SELLER: monty (550x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 550 LN F26 4.75 Put for .6940
+    - Buys 1100 LN F26 4.00 Put for .3300
+    - Sells 550 LN F26 3.25 Put for .1160
+    - Sells 11 HP F26 4.99 Futures
+
+
+========================================
+            TRADE 250
+========================================
+Date: Wednesday June 25th  2025
+Instrument: FG26 3.50/3.00ps x4.84 9d TRADES .1160 (300x)
+Price: 0.116
+Quantity: 300x
+
+BUYER: CTC (125x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 125/mo LN FG26 3.50 Put for .2150
+    - Sells 125/mo LN FG26 3.00 Put for .0990
+    - Buys 11/mo HP FG26 4.84 Futures
+
+BUYER: Rings (50x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 50/mo LN FG26 3.50 Put for .2150
+    - Sells 50/mo LN FG26 3.00 Put for .0990
+    - Buys 5/mo HP FG26 4.84 Futures
+
+SELLER: Kess (300x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 300/mo LN FG26 3.50 Put for .2150
+    - Buys 300/mo LN FG26 3.00 Put for .0990
+    - Sells 27/mo HP FG26 4.84 Futures
+
+
+========================================
+            TRADE 251
+========================================
+Date: Wednesday June 25th  2025
+Instrument: G26 4.00/3.25ps x4.69 13d TRADES .2910 (200x)
+Price: 0.291
+Quantity: 200x
+
+BUYER: BMO Mike (125x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 125 LN G26 4.00 Put for .4760
+    - Sells 125 LN G26 3.25 Put for .1850
+    - Buys 16 HP G26 4.69 Futures
+
+BUYER: CTC (75x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 100 LN G26 4.00 Put for .4760
+    - Sells 100 LN G26 3.25 Put for .1850
+    - Buys 10 HP G26 4.69 Futures
+
+SELLER: Baly Hanna (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 200 LN G26 4.00 Put for .4760
+    - Buys 200 LN G26 3.25 Put for .1850
+    - Sells 26 HP G26 4.69 Futures
+
+
+========================================
+            TRADE 252
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 3.10/2.85 1x2 ps LIVE TRADES .0120 (500x)
+Price: 0.012
+Quantity: 500x
+
+BUYER: DV Jacob (500x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 500 LN N25 3.10 Put for .0420
+    - Sells 1000 LN N25 2.85 Put for .0150
+
+SELLER: Gator selsl (100x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 100 LN N25 3.10 Put for .0420
+    - Buys 200 LN N25 2.85 Put for .0150
+
+
+========================================
+            TRADE 253
+========================================
+Date: Wednesday June 25th  2025
+Instrument: Q25 3.00/2.75ps x3.73 7d TRADES .0380 (2000x)
+Price: 0.038
+Quantity: 2,000x
+
+BUYER: Citadel Ron buys (2000x)
+  Clearing: ICE Cleared
+  Actions:
+    - Buys 2000 PHE Q25 3.00 Put for .0750
+    - Sells 2000 PHE Q25 2.75 Put for .0370
+    - Buys 140 PHE Q25 3.73 Futures
+
+SELLER: CTC sells (400x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 400 PHE Q25 3.00 Put for .0750
+    - Buys 400 PHE Q25 2.75 Put for .0370
+    - Sells 28 PHE Q25 3.73 Futures
+
+SELLER: Csec sells (250x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 250 PHE Q25 3.00 Put for .0750
+    - Buys 250 PHE Q25 2.75 Put for .0370
+    - Sells 17.5 PHE Q25 3.73 Futures
+
+SELLER: Stroke sells (200x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 200 PHE Q25 3.00 Put for .0750
+    - Buys 200 PHE Q25 2.75 Put for .0370
+    - Sells 14 PHE Q25 3.73 Futures
+
+SELLER: Valk sells (150x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 150 PHE Q25 3.00 Put for .0750
+    - Buys 150 PHE Q25 2.75 Put for .0370
+    - Sells 10.5 PHE Q25 3.73 Futures
+
+SELLER: TMG sells (100x)
+  Clearing: ICE Cleared
+  Actions:
+    - Sells 100 PHE Q25 3.00 Put for .0750
+    - Buys 100 PHE Q25 2.75 Put for .0370
+    - Sells 7 PHE Q25 3.73 Futures
+
+
+========================================
+            TRADE 254
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 5.75c LIVE TRADES .0045 (200x)
+Price: 0.0045
+Quantity: 200x
+
+BUYER: Kess buys (200x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Buys 200 LN N25 5.75 Call for .0045
+
+SELLER: Csec sells (200x)
+  Clearing: CME Cleared
+  Actions:
+    - Sells 200 LN N25 5.75 Call for .0045
+
+
+========================================
+            TRADE 255
+========================================
+Date: Wednesday June 25th  2025
+Instrument: N25 4.75 Call x3.67 vs U25 5.50 Call x3.73 6d 12d TRADES .0530 (275x)
+Price: 0.053
+Quantity: 275x
+
+BUYER: JPM Kevin (275x)
+  Clearing: CME Cleared
+  Actions:
+    - Buys 275 LN U25 5.50 Call for .0750
+    - Sells 33 HP U25 3.73 Futures
+    - Sells 275 LN N25 4.75 Call for .0220
+    - Buys 17 HP N25 3.67 Futures
+
+SELLER: Kess (275x)
+  Clearing: CME Cleared
+  Initiated: ICE Chat
+  Actions:
+    - Sells 275 LN U25 5.50 Call for .0750
+    - Buys 33 HP U25 3.73 Futures
+    - Buys 275 LN N25 4.75 Call for .0220
+    - Sells 17 HP N25 3.67 Futures
